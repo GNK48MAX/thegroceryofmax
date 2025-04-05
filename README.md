@@ -18,3 +18,7 @@ But if you are intereted in the one of these files, just take it.
 If you wanna download the files of one folder, not clone all of them, you can try to use the link 
 
 https://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html
+
+or 
+
+https://lanyundev.com/tool/GitHub%E6%96%87%E4%BB%B6%E6%88%96%E7%9B%AE%E5%BD%95%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD
