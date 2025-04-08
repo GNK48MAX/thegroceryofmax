@@ -1,0 +1,9 @@
+{
+    "name": "UltimateHealthPacks",
+    "version_number": "1.0.0",
+    "description": "Use a Health Pack and your friends will also get HP!",
+    "website_url": "https://github.com/lolipopkungz",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

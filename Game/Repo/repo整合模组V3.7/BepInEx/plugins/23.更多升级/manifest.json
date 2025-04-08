@@ -1,0 +1,7 @@
+{
+  "name": "MoreUpgrades",
+  "version_number": "1.0.6",
+  "website_url": "",
+  "description": "Adds more item upgrades to the game. (Configurable)",
+  "dependencies": [ "Zehs-REPOLib-1.2.0" ]
+}

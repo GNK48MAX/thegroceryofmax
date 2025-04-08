@@ -1,0 +1,7 @@
+{
+    "name": "Valuables_Scanner",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Discovers (for your teammates too!) nearby valuables when a key is pressed (F by default). Multiplayer friendly.",
+    "dependencies": []
+}

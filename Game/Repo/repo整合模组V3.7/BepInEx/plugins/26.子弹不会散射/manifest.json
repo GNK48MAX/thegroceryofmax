@@ -1,0 +1,9 @@
+{
+    "name": "PerfectAccuracyGun",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Ian0526",
+    "description": "A single line that makes the handgun accurate.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

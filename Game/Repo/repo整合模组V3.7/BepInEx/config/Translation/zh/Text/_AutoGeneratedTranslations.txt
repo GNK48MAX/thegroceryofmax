@@ -1,0 +1,1520 @@
+﻿CHAT:=聊天：
+EXTRACTION POINT ACTIVATED=撤离点已激活
+The friend with the best computer\nand internet should host.\n\nAre you this friend?=拥有最佳电脑和网络条件的朋友应担任主机。\n\n你是这位朋友吗？
+NO=否
+YES=是
+Host a game?=要创建游戏吗？
+Close the entire application?=要关闭整个应用程序吗？
+Quit Game=退出游戏
+Good job! <sprite name\=creepycrying>=干得好！ <sprite name\=creepycrying>
+<sprite name\=!>=<sprite name\=!>
+Change color=改变颜色
+select color=选择颜色
+Graphics=图形
+Gameplay=游戏
+READY=准备就绪
+Is that really so?=真的要这样做吗？
+Self Destruction=自毁程序
+UPGRADES=属性升级
+The Broken Ones:=破碎的人：
+LOADING=加载
+host game=创建主机
+Settings=基础设置
+Tutorial=新手教程
+join game=加入游戏
+singleplayer=单人游戏
+Quit game=退出游戏
+Back=< 返回
+Controls=控制
+Audio=音频
+Default=默认
+Camera Animation=相机动画
+Camera Noise=相机噪音
+Camera Shake=相机抖动
+Camera Smoothing=相机平滑
+Aim Sensitivity=瞄准灵敏度
+Player Names=玩家姓名
+OFF=关
+ON=开
+Tips=提示
+RESET TO DEFAULT SETTINGS=重置为默认设置
+Reset all gameplay settings to default properties?=将所有游戏设置重置为默认属性？
+RESET GAMEPLAY SETTINGS?=重置游戏设置？
+Medium=中
+Low=低
+Very Low=超低
+Off=关
+Grain=纹理
+Chromatic Aberration=色差
+Bloom=泛光效果
+Lens Distortion=镜头畸变
+Motion Blur=运动模糊
+Shadow Distance=阴影距离
+Shadow Quality=阴影质量
+Light Distance=光照距离
+Max FPS=最大帧数
+Gamma=亮度
+Vsync=垂直同步
+Window Mode=窗口模式
+Glitch Loop=音效
+Pixelation=像素
+Fullscreen=全屏化
+Unlimited=无上限
+High=高
+Reset all controls to default settings?=是否将所有控件重置为默认设置？
+RESET CONTROLS?=重置控制？
+Windowed=窗口化
+Very High=超高
+Small=小
+Push to Talk=按键说话
+Microphone Volume=麦克风音量
+VoiceMeeter Output (VB-Audio VoiceMeeter VAIO)=VoiceMeeter Output (VB-Audio VoiceMeeter VAIO)
+Microphone=麦克风
+Text to Speech Volume=语音音量
+Proximity Voice Volume=声距音量
+Sfx Volume=音效音量
+Music Volume=音乐音量
+Master Volume=主音量
+NONE=无
+controls=控制
+toggle=切换
+MOVEMENT=移动
+MOVE FORWARD=向前
+move left=向左
+MOVE BACK=向后
+Move RIGHT=向右
+jump=跳跃
+crouch=蹲下
+hold=长按
+sprint=冲刺
+TUMBLE=翻滚
+GRABBING=交互
+grab=抓住
+rotate\n=旋转\n
+push=推远
+pull=拉近
+OTHER=其他
+map\n=地图\n
+interact\n=互动\n
+inventory 1=库存1
+inventory 2=库存2
+inventory 3=库存3
+chat=聊天
+confirm\n=确认\n
+back\n=< 返回\n
+menu\n=菜单\n
+spectate next=观看下一个
+spectate previous=观看上一个
+push to talk=按键说话
+MOUSE LEFT=鼠标左键
+MOUSE RIGHT=鼠标右键
+MOUSE SCROLL=鼠标滚动
+[press new button]=[按下新按钮]
+Here's all the fun you’ve had and the opportunity to pick up right where you left off.=这是你所经历的所有乐趣，以及从你中断的地方重新开始的机会。
+Saved games=保存的游戏
+NEW GAME=新游戏
+Singleplayer mode=单人模式
+SAVED GAMES=保存的游戏
+< GO BACK=<返回
+Do you want to start a game?=你想开始一场游戏吗？
+Start a new game?=开始新游戏？
+Main Menu=主菜单
+Self Destruct=自爆
+Continue=继续游戏
+Menu=菜单
+
+#新手教程
+Use <u><b>WASD</b></u> to move.=使用 <u><b>WASD</b></u> 移动。
+Use <u><b>WASD</b></u> on your keyboard until the progress bar is filled!=使用 <u><b>WASD</b></u> 按住键盘上的按键，直到进度条填满！
+Use <u><b>WASD</b></u> to move=使用 <u><b>WASD</b></u> 移动
+Use <b><u>LEFT MOUSE + RIGHT MOUSE</b></u> to rotate an object you are holding=使用 <b><u>鼠标左键+鼠标右键</b></u> 旋转你拿着的物品
+<b>FOCUS > </b>Move to fill the progress bar=<b>提示> </b>移动以填充进度条
+<b>FOCUS > </b>Jump to fill the progress bar=<b>提示> </b>跳跃以填充进度条
+Press <u><b>SPACE</b></u> to jump.=按 <u><b>SPACE</b></u> 跳。
+<b>FOCUS > </b>Sneak to fill the progress bar=<b>提示> </b>蹲下填充进度条
+Press <u><b>CONTROL</b></u> to sneak. Monsters are less likely to see you.=按 <u><b>Ctrl</b></u> 蹲下，怪物可能看不到你。
+Hold <u><b>CONTROL</b></u> and use <u><b>WASD</b></u> until the progess is filled!=长按 <u><b>Ctrl</b></u> 和使用 <u><b>WASD</b></u> 直到进度完成！
+Hold <u><b>CONTROL</b></u> and walk in under a prop, stay there until you fill the progress bar!=长按 <u><b>Ctrl</b></u> 然后走进物体下面，呆在那里，直到你填满进度条！
+<b>FOCUS > </b>Hide to fill the progress bar=<b>提示> </b>躲藏以填充进度条
+Use <u><b>CONTROL</b></u> to sneak under stuff and hide.=使用 <u><b>Ctrl</b></u> 偷偷溜到物体下面躲起来。
+<b>FOCUS > </b>Sprint to fill the progress bar=<b>提示> </b>冲刺以填充进度条
+Hold down <u><b>LEFT SHIFT</b></u> to sprint. This drains your energy.=长按 <u><b>左 Shift</b></u> 冲刺，这会消耗你的耐力。
+<b>FOCUS > </b>Run, jump and fall to fill the progress bar=<b>提示> </b>奔跑、跳跃和翻滚以填充进度条
+Run and press <u><b>Q</b></u> to fall with style. Jumping also helps!=奔跑并按下 <u><b>Q</b></u> 进行翻滚，也可以进行跳跃！
+Run (<u><b>LEFT SHIFT</b></u>), jump (<u><b>SPACE</b></u>) and press <u><b>Q</b></u> to throw yourself. Do it until you fill the progress bar!=冲刺(<u><b>左 Shift</b></u>)，跳跃(<u><b>SPACE</b></u>)并按 <u><b>Q</b></u> 这样做，直到你填满进度条！
+<b>FOCUS > </b>Carry that thing to fill the progress bar=<b>提示> </b>携带该物品以填充进度条
+Grab (<u><b>MOUSE LEFT</b></u>) and hold it until you fill the progress bar!=抓取(<u><b>鼠标左键</b></u>)按住它，直到填满进度条！
+Grab objects using <u><b>MOUSE LEFT</b></u>.=使用<u><b>鼠标左键</b></u>抓取物品.
+<b>FOCUS > </b>Alter the distance of a grabbed item=<b>提示> </b>改变抓取物品的距离
+Grab (<u><b>MOUSE LEFT</b></u>) an item and use <u><b>MOUSE SCROLL</b></u> to alter the distance of the item you grabbed!=抓住(<u><b>鼠标左键</b></u>)物品 <u><b>滚动鼠标</b></u> 改变你抓取的物品的距离！
+Use <u><b>MOUSE SCROLL</b></u> to alter the distance of grabbed objects.=使用 <u><b>鼠标滚动</b></u> 以改变抓取物品的距离。
+<b>FOCUS > </b>Rotate stuff to fill the progress bar.=<b>提示> </b>旋转物品以填充进度条。
+Rotate grabbed objects using <u><b>MOUSE RIGHT</b></u>.=使用以下按键旋转抓取的物品 <u><b>鼠标右键</b></u>.
+Grab (<u><b>MOUSE LEFT</b></u>) and hold it while you press <u><b>MOUSE RIGHT</b></u> and move your aim to rotate it. Rotate until you fill the progress bar!=抓住(<u><b>鼠标左键</b></u>)按住它，同时按下 <u><b>鼠标右键</b></u> 然后移动并旋转它，旋转直到填满进度条！
+<b>FOCUS > </b>Toggle that thing on and off.=<b>提示> </b>打开和关闭物品。
+Grab (<u><b>MOUSE LEFT</b></u>) the ball and toggle it on and off using <u><b>E</b></u> until you fill the progress bar!=抓住(<u><b>鼠标左键</b></u>)然后使用以下按键打开和关闭球 <u><b>E</b></u> 直到你填满进度条！
+Grab and press <u><b>E</b></u> to toggle items.=抓取并按下 <u><b>E</b></u> 进行物品交互。
+<b>FOCUS > </b>Fill your entire inventory.=<b>提示> </b>装满您的全部库存。
+Grab (<u><b>MOUSE LEFT</b></u>) an item, hold it and press <u><b>1</b></u>/<u><b>2</b></u>/<u><b>3</b></u>. Fill all spots in your inventory to complete the progress bar!=抓住(<u><b>鼠标左键</b></u>)一个物品，按住它并按下 <u><b>1</b></u>/<u><b>2</b></u>/<u><b>3</b></u>键，装满库存中的所有位置以完成进度条！
+Grab an Item and use <u><b>1</b></u>/<u><b>2</b></u>/<u><b>3</b></u> to put it in your inventory.=抓取物品并按下 <u><b>1</b></u>/<u><b>2</b></u>/<u><b>3</b></u> 键把它放在你的库存中。
+Use <u><b>1</b></u>/<u><b>2</b></u>/<u><b>3</b></u> and empty all spots to fill the progress bar!=使用 <u><b>1</b></u>/<u><b>2</b></u>/<u><b>3</b></u> 并清空所有库存以填充进度条！
+<b>FOCUS > </b>Empty your entire inventory.=<b>提示> </b>清空您的全部库存。
+Use <u><b>1</b></u>/<u><b>2</b></u>/<u><b>3</b></u> to take items out of your inventory.=使用 <u><b>1</b></u>/<u><b>2</b></u>/<u><b>3</b></u> 从库存中取出物品。
+<b>FOCUS > </b>Check the map.=<b>提示> </b>查看地图。
+Use <u><b>TAB</b></u> to view the map. The map is <b><u>important</b></u> for navigation.=使用 <u><b>Tab</b></u> 查看地图 <b><u>这很重要的</b></u>， 可用于导航。
+<b>FOCUS > </b>Walk around with the C.A.R.T. a little.=<b>提示> </b>带着推车四处走走。
+This is a C.A.R.T. Grab it by the handle.=这是推车，抓住把手。
+C.A.R.T.=推车
+Mode: STRONG=模式：强
+<b>FOCUS > </b>Fill the C.A.R.T. with valuables.=<b>提示> </b>把贵重物品装满推车。
+Fill C.A.R.T.s with valuables. C.A.R.T.s are <b><u>important</b></u> for carrying more stuff.=把贵重物品装满推车，推车 <b><u>很重要</b></u> 能携带更多物品。
+Mode: WEAK=模式：弱
+Put three items into the C.A.R.T.=将三个物品放入推车。
+<b>FOCUS > </b>Extract the valuables.=<b>提示> </b>取出贵重物品。
+Activate and fill <b><u>Extraction Points</b></u> with valuables.=激活并装满<b><u>提取点</b></u> 贵重物品。
+HELLO! FILL THE <b><u>EXTRACTION POINT</b></u> WITH VALUABLES!=你好！装满 <b><u>提取点</b></u> 贵重物品！
+<b>FOCUS > </b>Fill the extraction point with valuables=<b>提示> </b>在提取点装满贵重物品
+ACTIVE=运行中
+TAX RETURN=价值估算中...
+EXTRACTION POINT COMPLETED=提取点已完成
+EXTRACTING=提取
+Hold <u><b>LEFT SHIFT</b></u> and use <u><b>WASD</b></u> to sprint until you filled the progress bar! If the energy runs out, wait for it to regenerate!=长按 <u><b>左 Shift</b></u> 和使用 <u><b>WASD</b></u> 冲刺，直到你填满进度条！如果耐力耗尽，等待它恢复！
+<b>FOCUS > </b>Get into the truck and send a message.=<b>提示> </b>上车并发送信息。
+COMPLETED=已完成
+Walk into the truck, grab (<u><b>MOUSE LEFT</b></u>) and hold the message area on the truck screen to send a message!=走进卡车，按住(<u><b>鼠标左键</b></u>)按住卡车屏幕上的消息区域发送消息！
+Enter the <b><u>truck</b></u> and send a message to your boss in order to leave a level.=进入 <b><u>卡车</b></u> 并向你的老板发送一条消息，以便进入下一个关卡。
+TAXMAN:=税务员:
+STARTING ENGINE<color\=#CC331A>.</color><color\=#CC331A>.</color><color\=#CC331A>.</color>=起动发动机<color\=#CC331A>.</color><color\=#CC331A>.</color><color\=#CC331A>.</color>
+Confirm=确认
+Exit to main menu?=退出至主菜单？
+Multiplayer mode=多人游戏模式
+Cause: ClientTimeout=原因：客户端超时
+Cause: Host disconnected=原因：主机已断开连接
+OK=好的
+Disconnected=已断开
+R.E.P.O.=R.E.P.O.
+LOAD SAVE=加载存档
+DELETE SAVE=删除存档
+Load this save file?=是否加载此存档？
+Load save?=加载存档？
+Are you REALLY SURE you want to delete this save FOREVER?=您确定要永久删除此存档吗？
+DELETE SAVE?=删除存档？
+invite=邀请
+
+r:"^(.*) TOTAL HAUL:      (.*)"=$1 运输总值：    $2  
+r:"^(.*)\[HOST\](.*)"=$1[主机]$2
+player joining...=玩家加入...
+start game=启动游戏
+Press <u><b>T</b></u> to chat=按 <u><b>T</b></u> 聊天
+
+r:"^([0-9]+) ms$"=$1 ms
+r:"^LEVEL ([0-9]+)$"=关卡 $1
+r:"^(.*?) VOICE$"=$1 --音量
+
+sr:"^(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)$"=$1$2$3$4$5$6$7$8$9$10$11$12
+HEALTH\n=HEALTH  生命\n
+STAMINA\n=STAMINA  耐力\n
+EXTRA JUMP\n=EXTRA JUMP  额外跳跃\n
+LAUNCH\n=LAUNCH  翻滚速度\n
+MAP PLAYER COUNT\n=MAP PLAYER COUNT  地图玩家数量\n
+SPEED\n=SPEED  冲刺速度\n
+STRENGTH\n=STRENGTH  力量\n
+RANGE\n=RANGE  抓取范围\n
+THROW\n=THROW  投掷\n
+
+Lobby=大厅
+Leave=离开
+Element Name=元素名称
+
+Are you sure?=你确定吗？
+Leave Lobby=离开大厅
+
+Everyone ready?\n\nOnce the game is started\nnew players can not join.=大家准备好了吗？\n游戏开始后，新玩家将无法加入。
+Start Game=开始游戏
+GAME OVER=游戏结束
+
+#地图名称
+SWIFTBROOM ACADEMY=斯威夫特学院
+DISPOSAL ARENA=菜鸡竞技场
+MCJANNEK STATION=麦克扬尼克站
+HEADMAN MANOR=海德曼庄园
+SERVICE STATION=加油站
+
+#怪物名称
+Animal=变异蟑螂
+Robe=长袍怪人
+Gnome=侏儒
+Apex Predator=顶级掠食者
+Banger=爆破骷髅
+Chef=青蛙厨师
+Headman=酋长
+Huntsman=猎人
+Shadow Child=暗影之子
+Rugrat=熊孩子
+Reaper=收割小丑
+Clown=激光小丑
+Mentalist=念力师
+Spewer=呕吐魔怪
+Bowtie=尖叫大白
+Peeper Ceiling Eye=邪恶窥视者
+Duck=小黄鸭
+Reaper Runner=收割小丑
+Trudge=大锤恶魔
+Hidden=隐身怪
+Upscream=尖叫
+
+Time to leave, the truck heals you and revives carried player heads!=是时候离开了，卡车会治愈你，并复活已死亡的玩家！
+<b>FOCUS > </b>Get back to the truck!=<b>提示> </b>回到卡车上！
+<b>FOCUS > </b>Buy stuff in the shop=<b>提示> </b>在商店里买东西
+SHOP=商店
+SERVICE STATION=服务站
+This is the <b><u>Shop</b></u>, extract items to purchase. No harm lasts here!=这就是 <b><u>商店</b></u>，提取要购买的物品，这里不会造成伤害！
+
+#商店物品
+POCKET C.A.R.T.=小推车
+Recharge Drone=充电无人机
+Feather Drone=羽翼无人机
+Indestructible Drone=无敌无人机
+Zero Gravity Drone=零重力无人机
+ROLL Drone=翻滚无人机
+Extraction Tracker=提取点跟踪器
+Duct Taped Grenades=管状胶带手榴弹
+OUCT TAPED GRENADES
+Grenade=手榴弹
+Human Grenade=人类手榴弹
+Shockwave Grenade=冲击波手榴弹
+Stun Grenade=眩晕手榴弹
+Gun=枪
+Shotgun=猎枪
+Tranq Gun=特拉克枪
+Large Health Pack (100)=大型健康包 (100)
+Medium Health Pack (50)=中型健康包 (50)
+Small Health Pack (25)=小型健康包 (25)
+Baseball Bat=棒球棒
+Frying Pan=煎锅
+Inflatable Hammer=充气锤
+Sledge Hammer=大锤
+Sword=剑
+Explosive Mine=爆炸地雷
+Shockwave Mine=冲击波地雷
+Stun Mine=眩晕地雷
+Zero Gravity Orb=零重力球
+Energy Crystal=能量晶体
+Rubber Duck=橡胶鸭
+Map Player Count Upgrade=地图玩家数量升级
+Stamina Upgrade=耐力升级
+Extra Jump Upgrade=额外跳跃升级
+Range Upgrade=抓取范围升级
+Strength Upgrade=力量升级
+Health Upgrade=生命升级
+Sprint Speed Upgrade=冲刺速度升级
+Tumble Launch Upgrade=翻滚速度升级
+Valuable Tracker=贵重物品追踪器
+
+<b>FOCUS > </b>Enjoy the ride, recharge stuff and GEAR UP!=<b>提示> </b>享受旅程，补充能量，整装待发！
+HITTING THE ROAD<color\=#CC331A>.</color><color\=#CC331A>.</color><color\=#CC331A>.</color>=上路<color\=#CC331A>.</color><color\=#CC331A>.</color><color\=#CC331A>.</color>
+
+LOCKED=锁定的
+VoiceMeeter Outp...=VoiceMeeter Outp...
+LAST LOSER STANDING=最后一个失败者站立
+KING OF THE LOSERS!=失败者之王!
+Only one <b><u>Extraction Point</b></u> can be active at a time, find the current one using your map!=一次只能激活一个<b><u>提取点</b></u>，请查看地图找到当前提取点！
+Buy <b><u>Power Crystals</b></u> for the <b><u>Charging Station</b></u> to recharge and repair your gear!=购买<b><u>能量晶体</b></u>用于<b><u>充电站</b></u>，为你的装备充电和维修！
+Revive other players by extracting their heads!=通过拔出其他玩家的头来复活他们！
+Share your health with other players by grabbing their necks!=抓住其他玩家的脖子，与他们分享你的健康！
+v0.1.2=v0.1.2
+
+r:"^Lobby of (.*?)$"=$1 的大厅
+JOIN=加入
+SERVER LIST=服务器列表
+Connect to the friend=连接到朋友
+REFRESH LOBBIES=刷新大厅
+Lobby Closed=大厅关闭
+The lobby has closed.=大厅已经关闭。
+
+#####################################太古增加部分####################################################
+
+Mods=模组设置
+Save Changes=保存更改
+Reset=重置
+REPOLib=REPO库
+ExtendedLogging=扩展日志记录
+Team Boosters=团队增强器
+EnableUpgradeMapPlayer=启用玩家地图升级
+EnableUpgradePlayerEnergy=启用玩家能量升级
+EnableUpgradePlayerExtraJump=启用玩家额外跳跃升级
+EnableUpgradePlayerGrabRange=启用玩家抓取范围升级
+EnableUpgradePlayerGrabStrength=启用玩家抓取力量升级
+EnableUpgradePlayerGrabThrow=启用玩家抓取投掷升级
+EnableUpgradePlayerHealth=启用玩家健康升级
+EnableUpgradePlayerSprintSpeed=启用玩家冲刺速度升级
+EnableUpgradePlayerTumbleLaunch=启用玩家翻滚发射升级
+XUnity Resource Redirector=XUnity资源重定向器
+Log all loaded resources=记录所有加载的资源
+Log callback order=记录回调顺序
+ItemSpawner=物品生成器
+Enter Item Name:=输入物品名称:
+Spawn Item=生成物品
+Improved Stamina=增强耐力
+MaxRegenRate=最大恢复速率
+RegenRampUpTime=恢复加速时间
+DelayBeforeRegen=恢复前延迟
+SprintDrainMultiplier=冲刺消耗倍增器
+ColorCycler=颜色循环器
+ColorChangeDuration=颜色变化持续时间
+ToggleEffectKey=切换效果按键
+CycleModeKey=循环模式按键
+EnabledByDefault=默认启用
+DefaultEffectMode=默认效果模式
+Keep My Flashlight=保持我的手电筒
+SeeAllPlayersLights=查看所有玩家的灯光
+More Revive HP=更多复活生命值
+ExtraHealth=额外生命值
+MorePlayers=更多玩家
+MaxPlayers=最大玩家数
+COLOR EFFECT=颜色效果
+COLOR [RED]=颜色 [红色]
+COLOR [GREEN]=颜色 [绿色]
+COLOR [GLUE]=颜色 [蓝色]
+Color Effects Mod Loaded=颜色效果模组已加载
+Toggle key set to:=切换键设置为:
+Cycle Mode key set to:=循环模式键设置为:
+Color change duration set to:=颜色变化持续时间设置为:
+Color effect enabled by default:=默认启用颜色效果:
+Default effect mode:=默认效果模式:
+Enabled=已启用
+Disabled=已禁用
+Color Effect:=颜色效果:
+Switched to mode:=切换到模式:
+ENABLED=已启用
+DISABLED=已禁用
+COLOR EFFECT=颜色效果
+Waiting for AssetManager...=等待资产管理器…
+PlayerBodyColorR=玩家身体颜色R
+PlayerBodyColorG=玩家身体颜色G
+PlayerBodyColorB=玩家身体颜色B
+Color [RED]=颜色 [红色]
+Color [GREEN]=颜色 [绿色]
+Color [BLUE]=颜色 [蓝色]
+Menu Page Settings Audio=菜单页面设置音频
+Color Button Holder=颜色按钮容器
+Menu Button - Confirm=菜单按钮 - 确认
+Menu Scroll Box=菜单滚动框
+Scroller=滚动条
+Slider - Master volume=滑块 - 主音量
+Stat Manager=状态管理器
+Health=生命值
+Sprint Speed=冲刺速度
+Player Map Count=玩家地图计数
+Energy=能量
+Extra Jump=额外跳跃
+Grab Range=抓取范围
+Grab Strength=抓取力度
+Grab Throw=抓取投掷
+Tumble Launch=滚动启动
+ResetProgress=重置进度
+RepoRoles=角色仓库
+health=生命值
+maxHealth=最大生命值
+<b>FOCUS > </b>COLOR EFFECT ENABLED=<b>提示> </b>颜色效果已启用
+<b>FOCUS > </b>COLOR EFFECT DISABLED=<b>提示> </b>颜色效果已禁用
+Unsaved Changes=未保存更改
+You have unsaved changes, are you sure you want to exit?=你有未保存的更改，你确定要退出吗?
+Reset Stat Manager?=重置状态管理器?
+Reset all of Stat Manager's settings?=重置状态管理器模组的所有设置?
+Reset Team Boosters?=重置团队增强器?
+Reset all of Team Boosters' settings?=重置团队增强器模组的所有设置?
+Reset XUnity Resource Redirector?=重置XUnity资源重定向器?
+Reset all of XUnity Resource Redirector's settings?=重置XUnity资源重定向器模组的所有设置?
+Reset Improved Stamina?=重置增强耐力?
+Reset all of Improved Stamina's settings?=重置增强耐力模组的所有设置?
+Reset ColorCycler?=重置颜色循环器?
+Reset all of ColorCycler's settings?=重置颜色循环器模组的所有设置?
+Reset Keep My Flashlight?=重置保持我的手电筒?
+Reset all of Keep My Flashlight's settings?=重置保持我的手电筒模组的所有设置?
+Reset More Revive HP?=重置更多复活生命值?
+Reset all of More Revive HP's settings?=重置更多复活生命值模组的所有设置?
+Reset MorePlayers?=重置更多玩家?
+Reset all of MorePlayers' settings?=重置更多玩家模组的所有设置?
+Reset REPOLib?=重置REPO库?
+Reset all of REPOLib's settings?=重置REPO库模组的所有设置?
+Runner=跑者
+You run much faster than everyone else!\nPress R to continue=你比其他人都跑得快!\n按下R键继续
+Press R to continue=按下R键继续
+Tank=坦克
+You walk slower but your hp is doubled!\nPress R to continue=你走得慢，但你的生命值翻倍了!\n按下R键继续
+You rolled effect combo 1. You walk, crouch and run slower but you have more health!\nPress R to continue=你掷出了效果组合1. 你走路、蹲下和跑步更慢，但你拥有更多的生命值!\n按下R键继续
+You rolled random effects: You walk, crouch and run slower but you have more health!\nPress R to continue=你掷出了随机效果：你走路、蹲下和跑步更慢，但你拥有更多的生命值!\n按下R键继续
+You rolled effect combo 2. You don´t jump as high but you walk, crouch and run faster!\nPress R to continue=你掷出了效果组合2. 你跳得不高，但你走路、蹲下和跑步更快!\n按下R键继续
+You rolled random effects: You don´t jump as high but you walk, crouch and run faster!\nPress R to continue=你掷出了随机效果：你跳得不高，但你走路、蹲下和跑步更快!\n按下R键继续
+You rolled effect combo 3. You have more stamina but you have less health.\nPress R to continue=你掷出了效果组合3。你拥有更多的耐力，但你的生命值较少.\n按下R键继续
+You rolled random effects: You have more stamina but you have less health!\nPress R to continue=你掷出了随机效果：你拥有更多的耐力，但你的生命值较少!\n按下R键继续
+You rolled effect combo 4. You´re stronger but you have less stamina.\nPress R to continue=你掷出了效果组合4。你更加强壮，但你的耐力较少.\n按下R键继续
+You rolled random effects: You´re stronger but you have less stamina!\nPress R to continue=你掷出了随机效果：你更加强壮，但你的耐力较少!\n按下R键继续
+Strongman=大力士
+You´re incredibly strong!\nPress R to continue=你非常强壮!\n按下R键继续
+Ranged Looter=远程拾取者
+You can reach objects from far away!\nPress R to continue=你可以从远处够到物体!\n按下R键继续
+You rolled effect combo 5. You´re not as strong but you have more reach.=你掷出了效果组合5. 你不再那么强壮，但你的攻击范围更远了.
+You rolled random effects: You´re weaker but you have more reach!\nPress R to continue=你掷出了随机效果：你变弱了，但你的攻击范围更远了!\n按下R键继续
+You have more stamina and strength and can jump higher!\nPress R to continue=你拥有更多的耐力和力量，可以跳得更高!\n按下R键继续
+BetterFlashlight=更好的手电筒
+Brightness=亮度
+Reset BetterFlashlight?=重置更好的手电筒?
+Reset all of BetterFlashlight's settings?=重置更好的手电筒模组的所有设置?
+
+
+####3.11太古新增
+Cart Duplicator=购物车复制器
+DuplicationOffset=复制偏移量
+Duplication Offset=复制偏移量
+Offset for the duplicated cart position=复制购物车位置的偏移量
+DuplicationAmount=复制数量
+Duplication Amount=复制数量
+Number of additional carts to duplicate=要复制的额外购物车数量
+SmallCartReplacement=小型购物车替换
+Small Cart Replacement=小型购物车替换
+Replace the duplicated carts with the pocket C.A.R.T.=用口袋购物车替换复制的购物车
+Reset Cart Duplicator?=重置购物车复制器?
+Reset all of Cart Duplicator's settings?=重置购物车复制器模组的所有设置?
+Amount of Health upgrades.=健康升级数量.
+Amount of Sprint Speed upgrades.=冲刺速度升级数量.
+Amount of Player Map Count upgrades.=玩家地图计数升级数量.
+Amount of Energy upgrades.=能量升级数量.
+Amount of Extra Jump upgrades.=额外跳跃升级数量.
+Amount of Grab Range upgrades.=抓取范围升级数量.
+Amount of Grab Strength upgrades.=抓取力量升级数量.
+Amount of Grab Throw upgrades.=抓取投掷升级数量.
+Amount of Tumble Launch upgrades.=翻滚发射升级数量.
+FovUpdate=视野更新
+Fov Update=视野更新
+Developer Logging=开发者日志
+Enable this to see developer logging output=启用此项以查看开发者日志输出
+Fov=视野
+Set this to desired Fov value (standard gameplay)=设置所需的视野值（标准游戏玩法）
+CrouchFov=蹲下时视野
+Crouch Fov=蹲下时视野
+Set this to desired Fov value for when the player is crouched (tumble mode)=设置玩家蹲下时的所需视野值(翻滚模式)
+SprintFov=冲刺时视野
+Sprint Fov=冲刺时视野
+Set this to desired modifier for your fov when sprinting.=设置冲刺时所需视野修正值.
+This number will be added on to your regular fov when you start sprinting.=当你开始冲刺时，这个数字将加到你的常规视野上.
+Default is vanilla (20)=默认值为原版（20）
+Aspect-ratio fix on/off=宽高比修复 开/关
+Set this to true to enable Oksamies' UltrawideOrLongFix for widescreen compatibility=设置为true以启用Oksamies的超宽或长焦修正，以实现宽屏兼容性
+Reset Fov Update?=重置视野更新?
+Reset all of Fov Update's settings?=重置视野更新模组的所有设置?
+REPO Lib=REPO库
+Extended Logging=扩展日志记录
+Enable extended logging.=启用扩展日志记录.
+Reset REPO Lib?=重置REPO库?
+Reset all of REPO Lib's settings?=重置REPO库模组的所有设置?
+Scaling Prices=价格缩放
+ValueMultiplier=价值倍增器
+Value Multiplier=价值倍增器
+UpgradeIncrease=升级增加
+Upgrade Increase=升级增加
+HealthPackIncrease=健康包增加
+Health Pack Increase=健康包增加
+CrystalIncrease=水晶增加
+Crystal Increase=水晶增加
+IncreasePerPlayer=每位玩家增加
+Increase Per Player=每位玩家增加
+Multiplier applied to the base price of items=应用于项目基础价格的多倍数
+Reset Scaling Prices?=重置价格缩放?
+Reset all of Scaling Prices's settings?=重置价格缩放模组的所有设置?
+Enable Upgrade Map Player=启用玩家地图升级
+Enable Upgrade Player Energy=启用玩家能量升级
+Enable Upgrade Player Extra Jump=启用玩家额外跳跃升级
+Enable Upgrade Player Grab Range=启用玩家抓取范围升级
+Enable Upgrade Player Grab Strength=启用玩家抓取力量升级
+Enable Upgrade Player Grab Throw=启用玩家抓取投掷升级
+Enable Upgrade Player Health=启用玩家健康升级
+Enable Upgrade Player Sprint Speed=启用玩家冲刺速度升级
+Enable Upgrade Player Tumble Launch=启用玩家翻滚发射升级
+Enables Team Upgrades for Map Player Count Upgrade=启用玩家地图升级的团队共享升级
+Enables Team Upgrades for Player Energy Upgrade=启用玩家能量升级的团队共享升级
+Enables Team Upgrades for Player Extra Jump Upgrade=启用玩家额外跳跃升级的团队共享升级
+Enables Team Upgrades for Player Grab Range Upgrade=启用玩家抓取范围升级的团队共享升级
+Enables Team Upgrades for Player Grab Strength Upgrade=启用玩家抓取力量升级的团队共享升级
+Enables Team Upgrades for Player Grab Throw Upgrade=启用玩家抓取投掷升级的团队共享升级
+Enables Team Upgrades for Player Health Upgrade=启用玩家健康升级的团队共享升级
+Enables Team Upgrades for Player Sprint Speed Upgrade=启用玩家冲刺速度升级的团队共享升级
+Enables Team Upgrades for Player Tumble Launch Upgrade=启用玩家翻滚发射升级的团队共享升级
+X Unity Resource Redirector=XUnity资源重定向器
+Reset X Unity Resource Redirector?=重置XUnity资源重定向器?
+Reset all of X Unity Resource Redirector's settings?=重置XUnity资源重定向器模组的所有设置?
+Max Regen Rate=最大恢复速率
+Regen Ramp Up Time=恢复加速时间
+Delay Before Regen=恢复前延迟
+Sprint Drain Multiplier=冲刺消耗倍增器
+Maximum stamina regeneration multiplier after not sprinting for some time.=最大耐力恢复倍数,在一段时间未进行冲刺后.
+Time in seconds before stamina regeneration reaches max multiplier.=在耐力恢复达到最大倍数之前的时间(以秒计).
+Time in seconds before stamina starts regenerating after stopping sprinting.=停止冲刺后,耐力开始恢复之前的时间(以秒计).
+Multiplier for stamina cost when sprinting. 1.0x is default.=冲刺时耐力消耗的倍数. 1.0x 为默认值.
+Color Cycler=颜色循环器
+Color Change Duration=颜色变化持续时间
+Enabled By Default=默认启用
+Time in seconds between color changes (lower = faster effect)=颜色变化之间的时间(以秒计，数值越低效果越快)
+Whether the color effect is enabled when the game starts=游戏开始时是否启用颜色效果
+Default Effect Mode=默认效果模式
+The default color effect mode at startup=启动时的默认颜色效果模式
+Toggle Effect Key=切换效果键
+Cycle Mode Key=循环模式键
+Key to toggle color effect on/off=切换颜色效果开/关的键
+Key to cycle through different color effect modes=循环不同颜色效果模式的键
+Reset Color Cycler?=重置颜色循环器?
+Reset all of Color Cycler's settings?=重置颜色循环器模组的所有设置?
+loaforcsSoundAPI=加载声音资源API
+loaforcs Sound API=加载声音资源API
+Audio Source Additional Data=音频源附加数据
+Sound Replacement Loader=声音替换加载器
+Sound Replacement Handler=声音替换处理器
+Match Strings=匹配字符串
+Conditions Info=条件信息
+Update Every Frame=每帧更新
+Generate Reports=生成报告
+Reset loaforcs Sound API?=重置加载声音资源API?
+Reset all of loaforcs Sound API's settings?=重置加载声音资源API模组的所有设置?
+Better Flashlight=更好的手电筒
+Set the brightness of the Flashlight=设置手电筒的亮度
+See All Players Lights=查看所有玩家的灯光
+Extra Health=额外生命值
+Extra Health to add to the 1 you spawn with, therefore make this something 1 through 99.=额外生命值，加到您生成时拥有的1点生命值上,因此这个数值应该是1到99之间的.
+More Players=更多玩家
+Max Players=最大玩家数
+The max amount of players allowed in a server=服务器允许的最大玩家数量
+Reset Better Flashlight?=重置更好的手电筒?
+Reset all of Better Flashlight's settings?=重置更好的手电筒模组的所有设置?
+Reset More Players?=重置更多玩家?
+Reset all of More Players' settings?=重置更多玩家模组的所有设置?
+MOREHEAD=更多头部
+CLOSE=关闭
+DECORATIONS=装饰品
+Rotate robot: A/D=旋转机器人：A/D
+r:"^(.*?) ON$"=$1 开启
+r:"^(.*?) OFF$"=$1 关闭
+
+
+####3.12太古新增
+
+Enemy Location=敌人位置
+True is Enable Enemy Location=True表示启用敌人位置
+Plugin Enemy Location is loaded!=敌人位置插件已加载!
+Added One Enemy Point=添加了一个敌人点
+Reset Enemy Location?=重置敌人位置?
+Reset all of Enemy Location's settings?=重置敌人位置模组的所有设置?
+ScaleInCart=在购物车中缩放
+Scale In Cart=在购物车中缩放
+Use Mass Scaling=使用质量缩放
+Revert Back To Original Scale=恢复到原始比例
+Scale Everything=缩放所有物品
+Scale Speed=缩放速度
+Default Scale=默认缩放比例
+Scale Factors=缩放因子
+The speed at which valuables scale down/up per update.=宝贵物品每次更新时缩小/放大的速度.
+Higher values make valuables shrink/expand faster.=数值越高，宝贵物品缩小/扩大的速度越快.
+Default scale factor if no mass threshold is exceeded=如果没有超过质量阈值，则使用默认缩放因子.
+Scale=缩放比例
+Mass:=质量:
+Reset Scale In Cart?=重置在购物车中缩放?
+Reset all of Scale In Cart's settings?=重置在购物车中缩放模组的所有设置?
+REPO_FPSCounter=FPS计数器
+REPO_FPS Counter=FPS计数器
+FpsCounterEnabled=启用FPS计数器
+FpsCounterSize=FPS计数器大小
+FpsCounterColor_HEX=FPS计数器颜色_十六进制
+REPO_FPS Counter=FPS计数器版本或存储库
+Fps Counter Enabled=启用FPS计数器
+Fps Counter Size=FPS计数器大小
+Fps Counter Color_HEX=FPS计数器颜色_十六进制
+Reset REPO_FPS Counter?=重置FPS计数器?
+Reset all of REPO_FPS Counter's settings?=重置FPS计数器模组的所有设置?
+No Items Left=没有剩余物品
+Time=时间
+Sets the time the players have to kill a monster and get money and if there's not enough items the objectives still pending.=设置玩家杀死怪物并获得金钱的时间，如果物品不足，任务仍然待定.
+Reset No Items Left?=重置没有剩余物品?
+Reset all of No Items Left's settings?=重置没有剩余物品模组的所有设置?
+Better Truck Heals=更好的卡车治疗
+HealAmount=治疗量
+Heal Amount=治疗量
+The amount of health the truck healer restores to the player.=卡车治疗者为玩家恢复的健康值.
+Reset Better Truck Heals?=重置更好的卡车治疗?
+Reset all of Better Truck Heals's settings?=重置更好的卡车治疗模组的所有设置?
+Better Tumble=更好的翻滚效果
+Disable self-damage=禁用自我伤害
+Damage scale=伤害缩放
+Reset Better Tumble?=重置更好的翻滚效果?
+Reset all of Better Tumble's settings?=重置更好的翻滚效果模组的所有设置?
+RepoRoles=角色仓库
+Repo Roles=角色仓库
+Reset Repo Roles?=重置角色仓库?
+Reset all of Repo Roles's settings?=重置角色仓库模组的所有设置?
+Open Invite=打开邀请
+CopySteamInvite=复制Steam邀请
+UseClickableRedirect=使用可点击的重定向
+Copy Steam Invite=复制Steam邀请
+Use Clickable Redirect=使用可点击的重定向
+Copy Steam invite link when clicking 'Invite'=点击'邀请'时复制Steam邀请链接
+Redirect through linkoid.github.io to make links clickable=通过linkoid.github.io重定向以使链接可点击
+Reset Open Invite?=重置打开邀请?
+Reset all of Open Invite's settings?=重置打开邀请模组的所有设置?
+More Shop Items=更多商店物品
+Total Shop Item Count=商店物品总数
+Upgrade Item Count=升级物品数量
+Health Pack Item Count=健康包物品数量
+The maximum number of items the shop will spawn.=商店将生成的物品最大数量.
+Vanilla default: 8=原版默认：8
+The maximum number of upgrades the shop will spawn.=商店将生成的升级物品最大数量.
+Vanilla default: 3=原版默认：3
+The maximum number of health pacls the shop will spawn.=商店将生成的健康包最大数量.
+Vanilla default: 3=原版默认：3
+Reset More Shop Items?=重置更多商店物品?
+Reset all of More Shop Items's settings?=重置更多商店物品模组的所有设置?
+MoreUpgrades=更多升级
+More Upgrades=更多升级
+Sprint Usage=冲刺技巧
+Scaling Factor=缩放因子
+Valuable Count=有价值计数
+Display Total Value=显示总价值
+Arrow Icon=箭头图标
+Exclude Enemies=排除敌人
+Color=颜色
+Map Enemy Display=地图敌人显示
+Formula: energySprintDrain / (1 + (upgradeAmount * scalingFactor))=公式：能量冲刺消耗 / (1 + (升级数量 * 缩放因子)) 
+Whether to display the total value next to the valuable counter.=是否在有价值计数器旁边显示总价值.
+Whether the icons appear as arrows showing direction instead of dots.=图标是否显示为箭头指示方向，而不是点.
+The color of the icon.=图标的颜色.
+Exclude specific enemies from displaying their icon by listing their names.=通过列出它们的名称，排除特定敌人显示其图标.
+Seperated by commas.=用逗号分隔.
+More Upgrades Manager=更多升级管理器
+Item Upgrade Player=玩家物品升级
+Whether the item upgrade can be added to the shop.=是否可以将物品升级添加到商店.
+Max Amount=最大数量
+Max Amount In Shop=商店中的最大数量
+Price=价格
+The cost to purchase the item upgrade.=购买物品升级的费用.
+Has Max Purchase=有最大购买限制
+Whether the item upgrade has a limit on how many times it can be bought.=物品升级是否有购买次数的限制.
+Max Purchase Amount=最大购买数量
+The total number of times the item upgrade can be purchased.=物品升级可以购买的总次数.
+Allow Team Upgrades=允许团队升级
+Whether the item upgrade applies to the entire team instead of just one player.=物品升级是否适用于整个团队，而不仅仅是一个玩家.
+Starting Amount=初始数量
+The number of times the item upgrade is applied at the start of the game.=游戏开始时物品升级应用的次数.
+REPO Ultimate Revive=终极复活
+Revive HP Settings=复活生命值设置
+StaminaCost=体力消耗
+Stamina Cost=体力消耗
+The amount of hp consumed when reviving.=复活时消耗的生命值.
+ReviveKey=复活键
+The key used to trigger a revive.=触发复活所使用的键.
+r:"^Your HP is below (.*?)$"=你的生命值低于 $1 
+r:"^Press [(.*?)] to revive (.*?) with (.*?) HP$"=按 [$1] 使用 $3 生命值复活 $2
+Reset REPO Ultimate Revive?=重置终极复活?
+Reset all of REPO Ultimate Revive's settings?=重置终极复活模组的所有设置?
+r:"^Level (.*?)$"=关卡 $1
+Level Number HUD=等级数字HUD
+Sprint Usage Upgrade=冲刺技巧升级
+Valuable Count Upgrade=物品数量显示升级
+Map Enemy Display Upgrade=地图敌人显示升级
+SPRINT USAGE\n=SPRINT USAGE  冲刺技巧\n
+VALUABLE COUNT\n=VALUABLE COUNT  物品数量显示\n
+MAP ENEMY DISPLAY\n=MAP ENEMY DISPLAY  地图敌人显示\n
+This level has multiple <u><b>Extraction Points</b></u>, you must clear them all to leave!=本关卡有多个<u><b>提取点</b></u>，你必须全部启用才能离开！
+
+X Unity Resource...=XUnity资源
+Developer Mode=开发人员模式
+Spawn Valuable=生成贵重物品
+Reset all of Repo Roles' settings?=重置所有角色的设置？
+Reset More Upgrades?=重置更多升级？
+Reset all of More Upgrades' settings?=重置所有设置？
+The maximum number of times the item upgrade can be...=道具升级可以一次性购买的最大次数.
+The maximum number of times the item upgrade can appear...=道具升级在商店中出现的最大次数.
+The number of times the item upgrade is applied at the...=在…处应用道具升级的次数...
+Formula: energySprintDrain / (1 + (upgradeAmount *...=公式：能量冲刺消耗 / (1 + (升级数量 * 缩放因子)) 
+Time in seconds before stamina starts regenerating after...=时间以秒为单位，之后开始恢复耐力...
+Time in seconds before stamina regeneration reaches max...=耐力再生达到最大值前的时间（秒）...
+Maximum stamina regeneration multiplier after not...=最大耐力再生倍数...
+Athletic=运动型
+Cause: Failed to get server instance.=原因：获取服务器链接失败.
+
+#####################3.13新增汉化部分########################
+
+REPO Ultimate Re...=终极复活
+The maximum number of times the item upgrade can be...=物品升级的最大次数可以达到...
+X Unity Resource...=自翻译资源
+Developer Mode=开发者模式
+Time in seconds before stamina starts regenerating after...=在...之后，体力开始恢复前的等待时间（以秒计）。
+The amount of health the truck healer restores to the...=卡车治疗者为...恢复的生命值量。
+The maximum number of items the shop will spawn.\nVanilla...=商店生成物品的最大数量。原版...
+Extra Health to add to the 1 you spawn with, therefore...=额外生命值将添加到您初始拥有的1点上，因此...
+Time in seconds before stamina regeneration reaches max...=在体力恢复达到最大值之前所需的时间（以秒计）。
+Maximum stamina regeneration multiplier after not...=在不进行...操作后，体力恢复的最大倍率。
+Spawn Valuable=生成贵重物品
+The maximum number of times the item upgrade can appear...=物品升级出现的最大次数...
+The number of times the item upgrade is applied at the...=物品升级在...处应用的次数...
+Formula: energySprintDrain / (1 + (upgradeAmount *...=公式：能量冲刺消耗 / (1 + (升级量 * ...
+Time in seconds between color changes (lower \= faster...=颜色变化之间的时间间隔（秒）（数值越低 \= 变化越快...）
+The maximum number of upgrades the shop will...=商店将提供的最大升级次数...
+The maximum number of health pacls the shop will...=商店将提供的最大生命补给包数量...
+<b>提示> </b>颜色效果已禁用\nValuables: <b>$1</b> (<color\=#558B2F><b>$1</b></color>)=<b>提示> </b>颜色效果已禁用  \n当前关卡总价值： <b>$1</b> (<color\=#558B2F><b>$1</b></color>)
+<b>提示> </b>颜色效果已启用\nValuables: <b>$1</b> (<color\=#558B2F><b>$1</b></color>)=<b>提示> </b>颜色效果已启用  \n当前关卡总价值： <b>$1</b> (<color\=#558B2F><b>$1</b></color>)
+<b>FOCUS > </b>COLOR EFFECT ENABLED\nValuables: <b>$1</b> (<color\=#558B2F><b>$1</b></color>)=<b>提示> </b>颜色效果已启用  \n当前关卡总价值： <b>$1</b> (<color\=#558B2F><b>$1</b></color>)
+<b>FOCUS > </b>COLOR EFFECT DISABLED\nValuables: <b>$1</b> (<color\=#558B2F><b>$1</b></color>)=<b>提示> </b>颜色效果已禁用  \n当前关卡总价值： <b>$1</b> (<color\=#558B2F><b>$1</b></color>)
+<size\=16><color\=#FF0000>[OFF]</color> BAMBOOCOPTER竹蜻蜓</size>=<size\=16><color\=#FF0000>[关闭]</color> 竹蜻蜓</size>
+<size\=16><color\=#FF0000>[OFF]</color> BROWSAD悲伤眉</size>=<size\=16><color\=#FF0000>[关闭]</color> 悲伤眉</size>
+<size\=16><color\=#FF0000>[OFF]</color> CIGAR雪茄</size>=<size\=16><color\=#FF0000>[关闭]</color> 雪茄</size>
+<size\=16><color\=#FF0000>[OFF]</color> CLOWNNOSE小丑鼻子</size>=<size\=16><color\=#FF0000>[关闭]</color> 小丑鼻子</size>
+<size\=16><color\=#FF0000>[OFF]</color> FOXMASK狐狸面具</size>=<size\=16><color\=#FF0000>[关闭]</color> 狐狸面具</size>
+<size\=16><color\=#FF0000>[OFF]</color> GLASSES眼镜</size>=<size\=16><color\=#FF0000>[关闭]</color> 眼镜</size>
+<size\=16><color\=#FF0000>[OFF]</color> ODRADEKB奥卓德克B</size>=<size\=16><color\=#FF0000>[关闭]</color> 奥卓德克B</size>
+<size\=16><color\=#FF0000>[OFF]</color> ODRADEK奥卓德克</size>=<size\=16><color\=#FF0000>[关闭]</color> 奥卓德克</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIGHEAD猪脑壳</size>=<size\=16><color\=#FF0000>[关闭]</color> 猪头</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIGNOSE猪鼻子</size>=<size\=16><color\=#FF0000>[关闭]</color> 猪鼻子</size>
+<size\=16><color\=#FF0000>[OFF]</color> STRAW草帽</size>=<size\=16><color\=#FF0000>[关闭]</color> 草帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> TEETH板牙儿</size>=<size\=16><color\=#FF0000>[关闭]</color> 板牙儿</size>
+<size\=16><color\=#FF0000>[OFF]</color> AME HAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 雨帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> BLACK CAT EARS</size>=<size\=16><color\=#FF0000>[关闭]</color> 黑猫耳朵</size>
+<size\=16><color\=#FF0000>[OFF]</color> BOWTIE</size>=<size\=16><color\=#FF0000>[关闭]</color> 领结</size>
+<size\=16><color\=#FF0000>[OFF]</color> BROWN STACHE</size>=<size\=16><color\=#FF0000>[关闭]</color> 棕色小胡子</size>
+<size\=16><color\=#FF0000>[OFF]</color> CAT FACE</size>=<size\=16><color\=#FF0000>[关闭]</color> 猫脸</size>
+<size\=16><color\=#FF0000>[OFF]</color> COLLAR</size>=<size\=16><color\=#FF0000>[关闭]</color> 衣领</size>
+<size\=16><color\=#FF0000>[OFF]</color> DEMON TAIL</size>=<size\=16><color\=#FF0000>[关闭]</color> 恶魔尾巴</size>
+<size\=16><color\=#FF0000>[OFF]</color> DOODLE BROWS</size>=<size\=16><color\=#FF0000>[关闭]</color> 涂鸦眉毛</size>
+<size\=16><color\=#FF0000>[OFF]</color> HALO</size>=<size\=16><color\=#FF0000>[关闭]</color> 光环</size>
+<size\=16><color\=#FF0000>[OFF]</color> HORNS</size>=<size\=16><color\=#FF0000>[关闭]</color> 犄角</size>
+<size\=16><color\=#FF0000>[OFF]</color> KNIVES</size>=<size\=16><color\=#FF0000>[关闭]</color> 刀具</size>
+<size\=16><color\=#FF0000>[OFF]</color> MLG GLASSES</size>=<size\=16><color\=#FF0000>[关闭]</color> MLG眼镜</size>
+<size\=16><color\=#FF0000>[OFF]</color> ORANGE CAT EARS</size>=<size\=16><color\=#FF0000>[关闭]</color> 橙色猫耳</size>
+<size\=16><color\=#FF0000>[OFF]</color> ROUND GLASSES</size>=<size\=16><color\=#FF0000>[关闭]</color> 圆框眼镜</size>
+<size\=16><color\=#FF0000>[OFF]</color> SPAMTON HAIR AND GLASSES</size>=<size\=16><color\=#FF0000>[关闭]</color> 斯潘顿发型和眼镜</size>
+<size\=16><color\=#FF0000>[OFF]</color> STRAW HAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 草帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> TIE</size>=<size\=16><color\=#FF0000>[关闭]</color> 领带</size>
+<size\=16><color\=#FF0000>[OFF]</color> TOP HAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 高顶礼帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> DAFFLIPS_UPPER</size>=<size\=16><color\=#FF0000>[关闭]</color> 达夫利普斯上装</size>
+<size\=16><color\=#FF0000>[OFF]</color> DAFFMOUTH_LOWER</size>=<size\=16><color\=#FF0000>[关闭]</color> 达夫口下装</size>
+<size\=16><color\=#FF0000>[OFF]</color> BEAKBOTTOM</size>=<size\=16><color\=#FF0000>[关闭]</color> 喙底</size>
+<size\=16><color\=#FF0000>[OFF]</color> BEAKTOP</size>=<size\=16><color\=#FF0000>[关闭]</color> 喙顶</size>
+<size\=16><color\=#FF0000>[OFF]</color> BLUEHORNS</size>=<size\=16><color\=#FF0000>[关闭]</color> 蓝角</size>
+<size\=16><color\=#FF0000>[OFF]</color> BOTTLEGLASSES</size>=<size\=16><color\=#FF0000>[关闭]</color> 瓶底眼镜</size>
+<size\=16><color\=#FF0000>[OFF]</color> CATEARS</size>=<size\=16><color\=#FF0000>[关闭]</color> 猫耳</size>
+<size\=16><color\=#FF0000>[OFF]</color> CHUMBUCKET</size>=<size\=16><color\=#FF0000>[关闭]</color> 鱼饵桶</size>
+<size\=16><color\=#FF0000>[OFF]</color> EXCLAMATE</size>=<size\=16><color\=#FF0000>[关闭]</color> 感叹</size>
+<size\=16><color\=#FF0000>[OFF]</color> MOUSTACHE</size>=<size\=16><color\=#FF0000>[关闭]</color> 小胡子</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIRATEHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 海盗帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> RANGERHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 游侠帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> SAFARIHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 探险帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> SOMBRERO</size>=<size\=16><color\=#FF0000>[关闭]</color> 墨西哥宽边帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> TOPHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 高顶礼帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> WITCHHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 女巫帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> BABYYOSHI</size>=<size\=16><color\=#FF0000>[关闭]</color> 婴儿耀西</size>
+<size\=16><color\=#FF0000>[OFF]</color> BURGERHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 汉堡帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> CAPPYCAP</size>=<size\=16><color\=#FF0000>[关闭]</color> 凯皮帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> LUIGICAP</size>=<size\=16><color\=#FF0000>[关闭]</color> 路易吉帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> MAKOTOHAIR</size>=<size\=16><color\=#FF0000>[关闭]</color> 真琴发型</size>
+<size\=16><color\=#FF0000>[OFF]</color> MARIOCAP</size>=<size\=16><color\=#FF0000>[关闭]</color> 马里奥帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> MONAHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 莫娜帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> PICHUDOLL</size>=<size\=16><color\=#FF0000>[关闭]</color> 皮丘玩偶</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIPLUPDOLL</size>=<size\=16><color\=#FF0000>[关闭]</color> 皮宝宝玩偶</size>
+<size\=16><color\=#FF0000>[OFF]</color> TEDDIEHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 泰迪帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> WALUIGICAP</size>=<size\=16><color\=#FF0000>[关闭]</color> 瓦路易吉帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> WARIOCAP</size>=<size\=16><color\=#FF0000>[关闭]</color> 瓦里奥帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> YUHAIR</size>=<size\=16><color\=#FF0000>[关闭]</color> 尤发</size>
+<size\=16><color\=#FF0000>[OFF]</color> MIKU</size>=<size\=16><color\=#FF0000>[关闭]</color> 初音</size>
+
+
+Map Value Tracker=地图物资追踪器
+The speed at which valuables scale down/up per...=贵重物品按比例缩小/放大的速度每...
+Scale Delay=缩放延迟
+The initial delay (in seconds) before valuables begin...=贵重物品开始...之前的初始延迟（以秒计）。
+Mass: 0.5=质量：0.5
+Mass: 1=质量：1
+Mass: 2=质量：2
+Mass: 3=质量：3
+Mass: 4=质量：4
+Mass: 5=质量：5
+Mass: 6=质量：6
+Mass: 8=质量：8
+Mass: 3.5=质量：3.5
+Mass: 0.8=质量：0.8
+Mass: 0.65=质量：0.65
+Sets the time players have to kill a monster and get...=设置玩家必须在限定时间内击杀怪物并获取...
+Ratio of Map Value to Extraction Goal. Ex: 20k map value...=地图价值与提取目标的比例。例如：20k地图价值...
+Value Ratio=价值比例
+Always On=始终开启
+Spawn Item UI=生成物品界面
+\nValuables: <b>$1</b> (<color\=#558B2F><b>$1</b></color>)=  \n当前关卡总价值： <b>$1</b> (<color\=#558B2F><b>$1</b></color>)
+<size\=16><color\=#FF0000>[OFF]</color> MARIODOLL</size>=<size\=16><color\=#FF0000>[关闭]</color> 马里奥娃娃</size>
+<size\=16><color\=#FF0000>[OFF]</color> MARIOBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 马里奥背部</size>
+<size\=16><color\=#FF0000>[OFF]</color> LUIGISTATUE</size>=<size\=16><color\=#FF0000>[关闭]</color> 路易吉雕像</size>
+<size\=16><color\=#FF0000>[OFF]</color> LUIGIBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 路易吉背部</size>
+<size\=16><color\=#FF0000>[OFF]</color> GOKUBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 悟空背部</size>
+<size\=16><color\=#FF0000>[OFF]</color> DKDOLL</size>=<size\=16><color\=#FF0000>[关闭]</color> DK娃娃</size>
+<size\=16><color\=#FF0000>[OFF]</color> CHOCOBOBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 陆行鸟背部</size>
+<size\=16><color\=#FF0000>[OFF]</color> BUSTERSWORD</size>=<size\=16><color\=#FF0000>[关闭]</color> 破坏之剑</size>
+<size\=16><color\=#FF0000>[OFF]</color> BRIANBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 布莱恩背部</size>
+<size\=16><color\=#FF0000>[OFF]</color> BOWSERBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 库巴背部</size>
+<size\=16><color\=#FF0000>[OFF]</color> BEERUSBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 比鲁斯背部</size>
+<size\=16><color\=#FF0000>[OFF]</color> MASTERSWORD</size>=<size\=16><color\=#FF0000>[关闭]</color> 大师之剑</size>
+<size\=16><color\=#FF0000>[OFF]</color> MOOGLEBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 莫古力背部</size>
+<size\=16><color\=#FF0000>[OFF]</color> PAPERHAMMER</size>=<size\=16><color\=#FF0000>[关闭]</color> 纸质锤子</size>
+<size\=16><color\=#FF0000>[OFF]</color> PARABEETLEHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 甲虫帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIKACHUBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 皮卡丘背部</size>
+<size\=16><color\=#FF0000>[OFF]</color> SPIDEYBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 蜘蛛侠背部</size>
+<size\=16><color\=#FF0000>[OFF]</color> SUPERHAMMER</size>=<size\=16><color\=#FF0000>[关闭]</color> 超级锤子</size>
+<size\=16><color\=#FF0000>[OFF]</color> TERENCEBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 特伦斯背部</size>
+<size\=16><color\=#FF0000>[OFF]</color> TOADBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 蟾蜍背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> VEGETABACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 贝吉塔背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> LEEK</size>=<size\=16><color\=#FF0000>[关闭]</color> 葱</size>
+<size\=16><color\=#FF0000>[OFF]</color> NERD GLASSES 1</size>=<size\=16><color\=#FF0000>[关闭]</color> 书呆子眼镜1</size>
+
+
+#####################3.14新增汉化部分########################
+Dynamic Lighting=动态光照
+Enhanced Controls=增强控制
+R.E.P.O. Crouch ...=蹲下
+Ambient Intensity=环境光强度
+Maximum players in the lobby (1-255).=大厅最大玩家数（1-255）
+启用蹲下自动站起奔跑 | Enable Crouch-to-Sprint=启用蹲下自动站起奔跑
+Heyitscaleb TTV=游戏重新增强
+Intensity of ambient light=环境光强度
+Fog Density=雾气密度
+Fog density=雾气密度
+Fog Start Distance=雾气起始距离
+Fog start distance=雾气起始距离
+Fog End Distance=雾气结束距离
+Fog end distance=雾气结束距离
+启用蹲下跳跃后站立 | Enable Stand After Crouch Jump=启用蹲下跳跃后站立
+Player Count Y=玩家数量 Y
+X position of the player count display (default: 0).=玩家数量显示的X位置（默认：0）。
+Player Count X=玩家数量 X
+Width of the chatbox in pixels (default: 534).=聊天框宽度（以像素为单位）（默认：534）。
+Chatbox Width=聊天框宽度
+Stamina recharge rate per frame (default: 8).=每帧耐力恢复率（默认：8）。
+Stamina Recharge=耐力恢复
+Y position of the player count display (default: 210).=玩家数量显示的Y轴位置（默认：210）。
+Enable Health Upgrade=启用生命值升级
+Enable Energy Upgrade=启用能量升级
+Enable Map Player Count Upgrade=启用地图玩家数量升级
+Enable Sprint Speed Upgrade=启用冲刺速度升级
+Enable Extra Jump Upgrade=启用额外跳跃升级
+Enable Grab Range Upgrade=启用抓取范围升级
+Enable Grab Strength Upgrade=启用抓取力量升级
+Enable Grab Throw Upgrade=启用抓取投掷升级
+Enable Tumble Launch Upgrade=启用翻滚发射升级
+Health amount deducted each time while crouching |...=每次下蹲时扣除的生命值 |...
+damage=伤害
+Health amount healed each time while crouching |...=每次下蹲时恢复的生命值 |...
+heal=治疗
+Interval for grab heal while crouching (in seconds) |...=下蹲时抓取治疗的间隔时间（秒） |...
+interval=间隔
+R.E.P.O. Crouch Grab Heal=下蹲抓取治疗
+<size\=16><color\=#FF0000>[OFF]</color> AUBREY</size>=<size\=16><color\=#FF0000>[关闭]</color> 奥布里</size>
+<size\=16><color\=#FF0000>[OFF]</color> AMOGUSBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 阿莫格斯背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> ALEX</size>=<size\=16><color\=#FF0000>[关闭]</color> 亚历克斯</size>
+<size\=16><color\=#FF0000>[OFF]</color> AIRPODS</size>=<size\=16><color\=#FF0000>[关闭]</color> 耳机</size>
+<size\=16><color\=#FF0000>[OFF]</color> XBANDAIDH头部创口贴</size>=<size\=16><color\=#FF0000>[关闭]</color> 头部创口贴</size>
+<size\=16><color\=#FF0000>[OFF]</color> XBANDAIDB胸口创口贴</size>=<size\=16><color\=#FF0000>[关闭]</color> 胸口创口贴</size>
+<size\=16><color\=#FF0000>[OFF]</color> KUNHAIR坤发</size>=<size\=16><color\=#FF0000>[关闭]</color> 坤发</size>
+<size\=16><color\=#FF0000>[OFF]</color> BLINDEYE盲视</size>=<size\=16><color\=#FF0000>[关闭]</color> 盲视</size>
+<size\=16><color\=#FF0000>[OFF]</color> BIGFLOPPA</size>=<size\=16><color\=#FF0000>[关闭]</color> 大佛拉帕</size>
+<size\=16><color\=#FF0000>[OFF]</color> BINGUS</size>=<size\=16><color\=#FF0000>[关闭]</color> 宾格斯</size>
+<size\=16><color\=#FF0000>[OFF]</color> BLACKCHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 黑聊</size>
+<size\=16><color\=#FF0000>[OFF]</color> BLOXYCOLAS</size>=<size\=16><color\=#FF0000>[关闭]</color> 布洛西可乐</size>
+<size\=16><color\=#FF0000>[OFF]</color> BOMBBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 炸弹背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> BORBS</size>=<size\=16><color\=#FF0000>[关闭]</color> 波布斯</size>
+<size\=16><color\=#FF0000>[OFF]</color> BRAINSLUG</size>=<size\=16><color\=#FF0000>[关闭]</color> 脑虫</size>
+<size\=16><color\=#FF0000>[OFF]</color> BRANDON</size>=<size\=16><color\=#FF0000>[关闭]</color> 布兰登</size>
+<size\=16><color\=#FF0000>[OFF]</color> BRIMSTONEELEMENTAL</size>=<size\=16><color\=#FF0000>[关闭]</color> 硫磺元素</size>
+<size\=16><color\=#FF0000>[OFF]</color> CHICKEN!!</size>=<size\=16><color\=#FF0000>[关闭]</color> 鸡！！</size>
+<size\=16><color\=#FF0000>[OFF]</color> CHICKENHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 鸡帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> COREY</size>=<size\=16><color\=#FF0000>[关闭]</color> 科里</size>
+<size\=16><color\=#FF0000>[OFF]</color> DENNIS</size>=<size\=16><color\=#FF0000>[关闭]</color> 丹尼斯</size>
+<size\=16><color\=#FF0000>[OFF]</color> DINKLEBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 丁克尔背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> DIPPERHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 迪珀帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> DON JUAN</size>=<size\=16><color\=#FF0000>[关闭]</color> 唐璜</size>
+<size\=16><color\=#FF0000>[OFF]</color> FLAMINGO</size>=<size\=16><color\=#FF0000>[关闭]</color> 火烈鸟</size>
+<size\=16><color\=#FF0000>[OFF]</color> FRUITLOOPBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 水果圈背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> GLORPBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 格洛普背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> GRAHAM</size>=<size\=16><color\=#FF0000>[关闭]</color> 格雷厄姆</size>
+<size\=16><color\=#FF0000>[OFF]</color> GWACAT</size>=<size\=16><color\=#FF0000>[关闭]</color> Oi猫</size>
+<size\=16><color\=#FF0000>[OFF]</color> JAKE</size>=<size\=16><color\=#FF0000>[关闭]</color> 杰克</size>
+<size\=16><color\=#FF0000>[OFF]</color> LUIGI</size>=<size\=16><color\=#FF0000>[关闭]</color> 路易吉</size>
+<size\=16><color\=#FF0000>[OFF]</color> MARIO</size>=<size\=16><color\=#FF0000>[关闭]</color> 马里奥</size>
+<size\=16><color\=#FF0000>[OFF]</color> MARK</size>=<size\=16><color\=#FF0000>[关闭]</color> 马克</size>
+<size\=16><color\=#FF0000>[OFF]</color> MONOLITHBADGE</size>=<size\=16><color\=#FF0000>[关闭]</color> 独石徽章</size>
+<size\=16><color\=#FF0000>[OFF]</color> MONSTERS</size>=<size\=16><color\=#FF0000>[关闭]</color> 怪物</size>
+<size\=16><color\=#FF0000>[OFF]</color> NBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> ORANGE</size>=<size\=16><color\=#FF0000>[关闭]</color> 橙色</size>
+<size\=16><color\=#FF0000>[OFF]</color> PENGUINBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 企鹅背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> PETER</size>=<size\=16><color\=#FF0000>[关闭]</color> 彼得</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIG</size>=<size\=16><color\=#FF0000>[关闭]</color> 猪</size>
+<size\=16><color\=#FF0000>[OFF]</color> RASMUS</size>=<size\=16><color\=#FF0000>[关闭]</color> 拉斯穆斯</size>
+<size\=16><color\=#FF0000>[OFF]</color> REDCHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 红聊</size>
+<size\=16><color\=#FF0000>[OFF]</color> RICHARD IS BACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 理查德回来了</size>
+<size\=16><color\=#FF0000>[OFF]</color> RICHARD</size>=<size\=16><color\=#FF0000>[关闭]</color> 理查德</size>
+<size\=16><color\=#FF0000>[OFF]</color> RITCHER</size>=<size\=16><color\=#FF0000>[关闭]</color> 里希特</size>
+<size\=16><color\=#FF0000>[OFF]</color> ROXYBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 罗克西背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> TONY (BLOODY)</size>=<size\=16><color\=#FF0000>[关闭]</color> 血腥虎头</size>
+<size\=16><color\=#FF0000>[OFF]</color> TONY</size>=<size\=16><color\=#FF0000>[关闭]</color> 托尼</size>
+<size\=16><color\=#FF0000>[OFF]</color> TOUGHERTIMESBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 艰难时光背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> UZIBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 乌兹背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> VBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> V背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> WALUIGI</size>=<size\=16><color\=#FF0000>[关闭]</color> 瓦路易吉</size>
+<size\=16><color\=#FF0000>[OFF]</color> WARIO</size>=<size\=16><color\=#FF0000>[关闭]</color> 瓦里奥</size>
+<size\=16><color\=#FF0000>[OFF]</color> WEEWR</size>=<size\=16><color\=#FF0000>[关闭]</color> 微沃猫</size>
+<size\=16><color\=#FF0000>[OFF]</color> WIZARDHATBLACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 巫师黑帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> WIZARDHATGREEN</size>=<size\=16><color\=#FF0000>[关闭]</color> 巫师绿帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> WIZARDHATRED</size>=<size\=16><color\=#FF0000>[关闭]</color> 巫师红帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> WIZARDHATWHITE</size>=<size\=16><color\=#FF0000>[关闭]</color> 巫师白帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> BAG</size>=<size\=16><color\=#FF0000>[关闭]</color> 包</size>
+<size\=16><color\=#FF0000>[OFF]</color> BEANIE</size>=<size\=16><color\=#FF0000>[关闭]</color> 无檐帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> BUNNY</size>=<size\=16><color\=#FF0000>[关闭]</color> 兔子</size>
+<size\=16><color\=#FF0000>[OFF]</color> COWBOYHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 牛仔帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> EGG</size>=<size\=16><color\=#FF0000>[关闭]</color> 蛋</size>
+<size\=16><color\=#FF0000>[OFF]</color> GOLDHELM</size>=<size\=16><color\=#FF0000>[关闭]</color> 金头盔</size>
+<size\=16><color\=#FF0000>[OFF]</color> LILMAN</size>=<size\=16><color\=#FF0000>[关闭]</color> 小矮人</size>
+<size\=16><color\=#FF0000>[OFF]</color> SILVERHELMET 1</size>=<size\=16><color\=#FF0000>[关闭]</color> 银头盔1</size>
+<size\=16><color\=#FF0000>[OFF]</color> UNICORN</size>=<size\=16><color\=#FF0000>[关闭]</color> 独角兽</size>
+<size\=16><color\=#FF0000>[OFF]</color> AK74M</size>=<size\=16><color\=#FF0000>[关闭]</color> AK74M</size>
+<size\=16><color\=#FF0000>[OFF]</color> AMONGUS</size>=<size\=16><color\=#FF0000>[关闭]</color> 在我们之中</size>
+<size\=16><color\=#FF0000>[OFF]</color> BULBASAUR</size>=<size\=16><color\=#FF0000>[关闭]</color> 妙蛙种子</size>
+<size\=16><color\=#FF0000>[OFF]</color> BUN BACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 兔子背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> CHARMANDER</size>=<size\=16><color\=#FF0000>[关闭]</color> 小火龙</size>
+<size\=16><color\=#FF0000>[OFF]</color> COWBOY BLACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 黑色牛仔</size>
+<size\=16><color\=#FF0000>[OFF]</color> COWBOY BROWN</size>=<size\=16><color\=#FF0000>[关闭]</color> 棕色牛仔</size>
+<size\=16><color\=#FF0000>[OFF]</color> CYBERSWORD</size>=<size\=16><color\=#FF0000>[关闭]</color> 网络剑</size>
+<size\=16><color\=#FF0000>[OFF]</color> HAIR</size>=<size\=16><color\=#FF0000>[关闭]</color> 头发</size>
+<size\=16><color\=#FF0000>[OFF]</color> JOINT</size>=<size\=16><color\=#FF0000>[关闭]</color> 关节</size>
+<size\=16><color\=#FF0000>[OFF]</color> HEADDECOR</size>=<size\=16><color\=#FF0000>[关闭]</color> 头饰</size>
+<size\=16><color\=#FF0000>[OFF]</color> MOONKNIGHT</size>=<size\=16><color\=#FF0000>[关闭]</color> 月骑士</size>
+<size\=16><color\=#FF0000>[OFF]</color> MUSCULAR FIT</size>=<size\=16><color\=#FF0000>[关闭]</color> 肌肉合身</size>
+<size\=16><color\=#FF0000>[OFF]</color> OCTOPUS</size>=<size\=16><color\=#FF0000>[关闭]</color> 章鱼</size>
+<size\=16><color\=#FF0000>[OFF]</color> PEANUT</size>=<size\=16><color\=#FF0000>[关闭]</color> 花生</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIRATE HAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 海盗帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> SQUIRTLE</size>=<size\=16><color\=#FF0000>[关闭]</color> 杰尼龟</size>
+<size\=16><color\=#FF0000>[OFF]</color> SQUISHY HAIR</size>=<size\=16><color\=#FF0000>[关闭]</color> 软弹头发</size>
+<size\=16><color\=#FF0000>[OFF]</color> TALAHAIR</size>=<size\=16><color\=#FF0000>[关闭]</color> 塔拉发</size>
+<size\=16><color\=#FF0000>[OFF]</color> TIARA</size>=<size\=16><color\=#FF0000>[关闭]</color> 头冠</size>
+<size\=16><color\=#FF0000>[OFF]</color> VEST</size>=<size\=16><color\=#FF0000>[关闭]</color> 背心</size>
+<size\=16><color\=#FF0000>[OFF]</color> HALO(1)</size>=<size\=16><color\=#FF0000>[关闭]</color> 光环(1)</size>
+<size\=16><color\=#FF0000>[OFF]</color> HORNS(1)</size>=<size\=16><color\=#FF0000>[关闭]</color> 角(1)</size>
+<size\=16><color\=#FF0000>[OFF]</color> STRAW HAT(1)</size>=<size\=16><color\=#FF0000>[关闭]</color> 草帽(1)</size>
+<size\=16><color\=#FF0000>[OFF]</color> BADGE</size>=<size\=16><color\=#FF0000>[关闭]</color> 徽章</size>
+<size\=16><color\=#FF0000>[OFF]</color> BANDANA</size>=<size\=16><color\=#FF0000>[关闭]</color> 头巾</size>
+<size\=16><color\=#FF0000>[OFF]</color> YEE HAW</size>=<size\=16><color\=#FF0000>[关闭]</color> 耶哈</size>
+<size\=16><color\=#FF0000>[OFF]</color> AKUAKU</size>=<size\=16><color\=#FF0000>[关闭]</color> 阿库阿库</size>
+<size\=16><color\=#FF0000>[OFF]</color> AMYBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 艾米背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> BANANAPEEL</size>=<size\=16><color\=#FF0000>[关闭]</color> 香蕉皮</size>
+<size\=16><color\=#FF0000>[OFF]</color> BLUESHELL</size>=<size\=16><color\=#FF0000>[关闭]</color> 蓝色贝壳</size>
+<size\=16><color\=#FF0000>[OFF]</color> BUZZJETPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 喷气背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> CHAINS</size>=<size\=16><color\=#FF0000>[关闭]</color> 链条</size>
+<size\=16><color\=#FF0000>[OFF]</color> CHOCOBOHEAD</size>=<size\=16><color\=#FF0000>[关闭]</color> 陆行鸟头</size>
+<size\=16><color\=#FF0000>[OFF]</color> FLINTSTONECART</size>=<size\=16><color\=#FF0000>[关闭]</color> 石器时代车</size>
+<size\=16><color\=#FF0000>[OFF]</color> GAGGLASSES</size>=<size\=16><color\=#FF0000>[关闭]</color> 搞笑眼镜</size>
+<size\=16><color\=#FF0000>[OFF]</color> GREENSHELL</size>=<size\=16><color\=#FF0000>[关闭]</color> 绿色龟壳</size>
+<size\=16><color\=#FF0000>[OFF]</color> GROUCHOGLASSES</size>=<size\=16><color\=#FF0000>[关闭]</color> 暴躁眼镜</size>
+<size\=16><color\=#FF0000>[OFF]</color> HYLIANHELMET</size>=<size\=16><color\=#FF0000>[关闭]</color> 海利亚头盔</size>
+<size\=16><color\=#FF0000>[OFF]</color> ICECLIMBERHAMMER</size>=<size\=16><color\=#FF0000>[关闭]</color> 攀冰锤</size>
+<size\=16><color\=#FF0000>[OFF]</color> ICECLIMBERHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 攀冰帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> LEPRECHAUNHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 小精灵帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> MUSHROOMHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 蘑菇帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIKACHUTAIL</size>=<size\=16><color\=#FF0000>[关闭]</color> 皮卡丘尾巴</size>
+<size\=16><color\=#FF0000>[OFF]</color> SHEIKAHHAIR</size>=<size\=16><color\=#FF0000>[关闭]</color> 希卡族发型</size>
+<size\=16><color\=#FF0000>[OFF]</color> SONICBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 索尼克背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> TAILSBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 塔尔斯背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> YOSHICART</size>=<size\=16><color\=#FF0000>[关闭]</color> 耀西卡丁车</size>
+Gambler=赌徒
+r:"^Players: (.?)/(.?)"=玩家:$1/$2
+The maximum number of times the upgrade item can be...=升级物品的最大使用次数为...
+The maximum number of times the upgrade item can appear...=升级物品的最大出现次数为...
+The cost to purchase the upgrade item.=购买升级物品的费用。
+The total number of times the upgrade item can be purchased.=升级物品的可购买总次数。
+The number of times the upgrade item is applied at the...=升级物品在...的应用次数。
+<sprite name\=clock>  <color\=#1A66CCFF><b>16</b></color><color\=#0D4C99FF>m</color> <color\=#1A66CCFF><b>2</b></color><color\=#0D4C99FF>s</color>=<sprite name\=clock>  <color\=#1A66CCFF><b>16</b></color><color\=#0D4C99FF>m</color> <color\=#1A66CCFF><b>2</b></color><color\=#0D4C99FF>升级物品在...的应用次数。</color>
+<sprite name\=clock>  <color\=#1A66CCFF><b>3</b></color><color\=#0D4C99FF>m</color> <color\=#1A66CCFF><b>51</b></color><color\=#0D4C99FF>s</color>=<sprite name\=clock>  <color\=#1A66CCFF><b>3</b></color><color\=#0D4C99FF>m</color> <color\=#1A66CCFF><b>51</b></color><color\=#0D4C99FF>升级物品在...的应用次数。</color>
+<sprite name\=truck>  <color\=#AAFF00><b>3</b></color>      <sprite name\=clock>  <color\=#1A66CCFF><b>16</b></color><color\=#0D4C99FF>m</color> <color\=#1A66CCFF><b>2</b></color><color\=#0D4C99FF>s</color>      <sprite name\=$$>  <b>31</b><color\=#33804C>k</color>=<sprite name\=truck>  <color\=#AAFF00><b>3</b></color>      <sprite name\=clock>  <color\=#1A66CCFF><b>16</b></color><color\=#0D4C99FF>m</color> <color\=#1A66CCFF><b>2</b></color><color\=#0D4C99FF>升级物品在...的应用次数。</color>      <sprite name\=$$>  <b>31</b><color\=#33804C>k</color>
+<size\=16><color\=#00FF00>[ON]</color> BAMBOOCOPTER竹蜻蜓</size>=<size\=16><color\=#00FF00>[开]</color> 竹蜻蜓</size>
+<size\=16><color\=#00FF00>[ON]</color> BLINDEYE盲视</size>=<size\=16><color\=#00FF00>[开]</color> 盲视</size>
+<size\=16><color\=#00FF00>[ON]</color> BROWSAD悲伤眉</size>=<size\=16><color\=#00FF00>[开]</color> 悲伤眉</size>
+<size\=16><color\=#00FF00>[ON]</color> CIGAR雪茄</size>=<size\=16><color\=#00FF00>[开]</color> 雪茄</size>
+<size\=16><color\=#00FF00>[ON]</color> CLOWNNOSE小丑鼻子</size>=<size\=16><color\=#00FF00>[开]</color> 小丑鼻子</size>
+<size\=16><color\=#00FF00>[ON]</color> FOXMASK狐狸面具</size>=<size\=16><color\=#00FF00>[开]</color> 狐狸面具</size>
+<size\=16><color\=#00FF00>[ON]</color> GLASSES眼镜</size>=<size\=16><color\=#00FF00>[开]</color> 眼镜</size>
+<size\=16><color\=#00FF00>[ON]</color> KUNHAIR坤发</size>=<size\=16><color\=#00FF00>[开]</color> 坤发</size>
+<size\=16><color\=#00FF00>[ON]</color> ODRADEKB奥卓德克B</size>=<size\=16><color\=#00FF00>[开]</color> 奥卓德克B</size>
+<size\=16><color\=#00FF00>[ON]</color> ODRADEK奥卓德克</size>=<size\=16><color\=#00FF00>[开]</color> 奥卓德克</size>
+<size\=16><color\=#00FF00>[ON]</color> PIGHEAD猪脑壳</size>=<size\=16><color\=#00FF00>[开]</color> 猪头</size>
+<size\=16><color\=#00FF00>[ON]</color> PIGNOSE猪鼻子</size>=<size\=16><color\=#00FF00>[开]</color> 猪鼻子</size>
+<size\=16><color\=#00FF00>[ON]</color> STRAW草帽</size>=<size\=16><color\=#00FF00>[开]</color> 草帽</size>
+<size\=16><color\=#00FF00>[ON]</color> TEETH板牙儿</size>=<size\=16><color\=#00FF00>[开]</color> 板牙儿</size>
+<size\=16><color\=#00FF00>[ON]</color> XBANDAIDB胸口创口贴</size>=<size\=16><color\=#00FF00>[开]</color> 胸口创口贴</size>
+<size\=16><color\=#00FF00>[ON]</color> XBANDAIDH头部创口贴</size>=<size\=16><color\=#00FF00>[开]</color> 头部创口贴</size>
+<size\=16><color\=#00FF00>[ON]</color> AIRPODS</size>=<size\=16><color\=#00FF00>[开]</color> 耳机</size>
+<size\=16><color\=#00FF00>[ON]</color> ALEX</size>=<size\=16><color\=#00FF00>[开]</color> 亚历克斯</size>
+<size\=16><color\=#00FF00>[ON]</color> AMOGUSBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 阿莫格斯背包</size>
+<size\=16><color\=#00FF00>[ON]</color> AUBREY</size>=<size\=16><color\=#00FF00>[开]</color> 奥布里</size>
+<size\=16><color\=#00FF00>[ON]</color> BIGFLOPPA</size>=<size\=16><color\=#00FF00>[开]</color> 大佛拉帕</size>
+<size\=16><color\=#00FF00>[ON]</color> BINGUS</size>=<size\=16><color\=#00FF00>[开]</color> 宾格斯</size>
+<size\=16><color\=#00FF00>[ON]</color> BLACKCHAT</size>=<size\=16><color\=#00FF00>[开]</color> 黑聊</size>
+<size\=16><color\=#00FF00>[ON]</color> BLOXYCOLAS</size>=<size\=16><color\=#00FF00>[开]</color> 布洛西可乐</size>
+<size\=16><color\=#00FF00>[ON]</color> BOMBBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 炸弹背包</size>
+<size\=16><color\=#00FF00>[ON]</color> BORBS</size>=<size\=16><color\=#00FF00>[开]</color> 波布斯</size>
+<size\=16><color\=#00FF00>[ON]</color> BRAINSLUG</size>=<size\=16><color\=#00FF00>[开]</color> 脑虫</size>
+<size\=16><color\=#00FF00>[ON]</color> BRANDON</size>=<size\=16><color\=#00FF00>[开]</color> 布兰登</size>
+<size\=16><color\=#00FF00>[ON]</color> BRIMSTONEELEMENTAL</size>=<size\=16><color\=#00FF00>[开]</color> 硫磺元素</size>
+<size\=16><color\=#00FF00>[ON]</color> CHICKEN!!</size>=<size\=16><color\=#00FF00>[开]</color> 鸡！！</size>
+<size\=16><color\=#00FF00>[ON]</color> CHICKENHAT</size>=<size\=16><color\=#00FF00>[开]</color> 鸡帽</size>
+<size\=16><color\=#00FF00>[ON]</color> COREY</size>=<size\=16><color\=#00FF00>[开]</color> 科里</size>
+<size\=16><color\=#00FF00>[ON]</color> DENNIS</size>=<size\=16><color\=#00FF00>[开]</color> 丹尼斯</size>
+<size\=16><color\=#00FF00>[ON]</color> DINKLEBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 丁克尔背包</size>
+<size\=16><color\=#00FF00>[ON]</color> DIPPERHAT</size>=<size\=16><color\=#00FF00>[开]</color> 迪珀帽</size>
+<size\=16><color\=#00FF00>[ON]</color> DON JUAN</size>=<size\=16><color\=#00FF00>[开]</color> 唐璜</size>
+<size\=16><color\=#00FF00>[ON]</color> FLAMINGO</size>=<size\=16><color\=#00FF00>[开]</color> 火烈鸟</size>
+<size\=16><color\=#00FF00>[ON]</color> FRUITLOOPBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 水果圈背包</size>
+<size\=16><color\=#00FF00>[ON]</color> GLORPBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 格洛普背包</size>
+<size\=16><color\=#00FF00>[ON]</color> GRAHAM</size>=<size\=16><color\=#00FF00>[开]</color> 格雷厄姆</size>
+<size\=16><color\=#00FF00>[ON]</color> GWACAT</size>=<size\=16><color\=#00FF00>[开]</color> Oi猫</size>
+<size\=16><color\=#00FF00>[ON]</color> JAKE</size>=<size\=16><color\=#00FF00>[开]</color> 杰克</size>
+<size\=16><color\=#00FF00>[ON]</color> LUIGI</size>=<size\=16><color\=#00FF00>[开]</color> 路易吉</size>
+<size\=16><color\=#00FF00>[ON]</color> MARIO</size>=<size\=16><color\=#00FF00>[开]</color> 马里奥</size>
+<size\=16><color\=#00FF00>[ON]</color> MARK</size>=<size\=16><color\=#00FF00>[开]</color> 马克</size>
+<size\=16><color\=#00FF00>[ON]</color> MONOLITHBADGE</size>=<size\=16><color\=#00FF00>[开]</color> 独石徽章</size>
+<size\=16><color\=#00FF00>[ON]</color> MONSTERS</size>=<size\=16><color\=#00FF00>[开]</color> 怪物</size>
+<size\=16><color\=#00FF00>[ON]</color> NBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 背包</size>
+<size\=16><color\=#00FF00>[ON]</color> ORANGE</size>=<size\=16><color\=#00FF00>[开]</color> 橙色</size>
+<size\=16><color\=#00FF00>[ON]</color> PENGUINBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 企鹅背包</size>
+<size\=16><color\=#00FF00>[ON]</color> PETER</size>=<size\=16><color\=#00FF00>[开]</color> 彼得</size>
+<size\=16><color\=#00FF00>[ON]</color> PIG</size>=<size\=16><color\=#00FF00>[开]</color> 猪</size>
+<size\=16><color\=#00FF00>[ON]</color> RASMUS</size>=<size\=16><color\=#00FF00>[开]</color> 拉斯穆斯</size>
+<size\=16><color\=#00FF00>[ON]</color> REDCHAT</size>=<size\=16><color\=#00FF00>[开]</color> 红聊</size>
+<size\=16><color\=#00FF00>[ON]</color> RICHARD IS BACK</size>=<size\=16><color\=#00FF00>[开]</color> 理查德回来了</size>
+<size\=16><color\=#00FF00>[ON]</color> RICHARD</size>=<size\=16><color\=#00FF00>[开]</color> 理查德</size>
+<size\=16><color\=#00FF00>[ON]</color> RITCHER</size>=<size\=16><color\=#00FF00>[开]</color> 里希特</size>
+<size\=16><color\=#00FF00>[ON]</color> ROXYBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 罗克西背包</size>
+<size\=16><color\=#00FF00>[ON]</color> TONY (BLOODY)</size>=<size\=16><color\=#00FF00>[开]</color> 血腥虎头</size>
+<size\=16><color\=#00FF00>[ON]</color> TONY</size>=<size\=16><color\=#00FF00>[开]</color> 托尼</size>
+<size\=16><color\=#00FF00>[ON]</color> TOUGHERTIMESBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 艰难时光背包</size>
+<size\=16><color\=#00FF00>[ON]</color> UZIBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 乌兹背包</size>
+<size\=16><color\=#00FF00>[ON]</color> VBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> V背包</size>
+<size\=16><color\=#00FF00>[ON]</color> WALUIGI</size>=<size\=16><color\=#00FF00>[开]</color> 瓦路易吉</size>
+<size\=16><color\=#00FF00>[ON]</color> WARIO</size>=<size\=16><color\=#00FF00>[开]</color> 瓦里奥</size>
+<size\=16><color\=#00FF00>[ON]</color> WEEWR</size>=<size\=16><color\=#00FF00>[开]</color> 微沃猫</size>
+<size\=16><color\=#00FF00>[ON]</color> WIZARDHATBLACK</size>=<size\=16><color\=#00FF00>[开]</color> 巫师黑帽</size>
+<size\=16><color\=#00FF00>[ON]</color> WIZARDHATGREEN</size>=<size\=16><color\=#00FF00>[开]</color> 巫师绿帽</size>
+<size\=16><color\=#00FF00>[ON]</color> WIZARDHATRED</size>=<size\=16><color\=#00FF00>[开]</color> 巫师红帽</size>
+<size\=16><color\=#00FF00>[ON]</color> WIZARDHATWHITE</size>=<size\=16><color\=#00FF00>[开]</color> 巫师白帽</size>
+<size\=16><color\=#00FF00>[ON]</color> BABYYOSHI</size>=<size\=16><color\=#00FF00>[开]</color> 婴儿耀西</size>
+<size\=16><color\=#00FF00>[ON]</color> BEERUSBACK</size>=<size\=16><color\=#00FF00>[开]</color> 比鲁斯背部</size>
+<size\=16><color\=#00FF00>[ON]</color> BOWSERBACK</size>=<size\=16><color\=#00FF00>[开]</color> 库巴背部</size>
+<size\=16><color\=#00FF00>[ON]</color> BRIANBACK</size>=<size\=16><color\=#00FF00>[开]</color> 布莱恩背部</size>
+<size\=16><color\=#00FF00>[ON]</color> BURGERHAT</size>=<size\=16><color\=#00FF00>[开]</color> 汉堡帽</size>
+<size\=16><color\=#00FF00>[ON]</color> BUSTERSWORD</size>=<size\=16><color\=#00FF00>[开]</color> 破坏之剑</size>
+<size\=16><color\=#00FF00>[ON]</color> CAPPYCAP</size>=<size\=16><color\=#00FF00>[开]</color> 凯皮帽</size>
+<size\=16><color\=#00FF00>[ON]</color> CHOCOBOBACK</size>=<size\=16><color\=#00FF00>[开]</color> 陆行鸟背部</size>
+<size\=16><color\=#00FF00>[ON]</color> DKDOLL</size>=<size\=16><color\=#00FF00>[开]</color> DK娃娃</size>
+<size\=16><color\=#00FF00>[ON]</color> GOKUBACK</size>=<size\=16><color\=#00FF00>[开]</color> 悟空背部</size>
+<size\=16><color\=#00FF00>[ON]</color> LUIGIBACK</size>=<size\=16><color\=#00FF00>[开]</color> 路易吉背部</size>
+<size\=16><color\=#00FF00>[ON]</color> LUIGICAP</size>=<size\=16><color\=#00FF00>[开]</color> 路易吉帽</size>
+<size\=16><color\=#00FF00>[ON]</color> LUIGISTATUE</size>=<size\=16><color\=#00FF00>[开]</color> 路易吉雕像</size>
+<size\=16><color\=#00FF00>[ON]</color> MAKOTOHAIR</size>=<size\=16><color\=#00FF00>[开]</color> 真琴发型</size>
+<size\=16><color\=#00FF00>[ON]</color> MARIOBACK</size>=<size\=16><color\=#00FF00>[开]</color> 马里奥背部</size>
+<size\=16><color\=#00FF00>[ON]</color> MARIOCAP</size>=<size\=16><color\=#00FF00>[开]</color> 马里奥帽</size>
+<size\=16><color\=#00FF00>[ON]</color> MARIODOLL</size>=<size\=16><color\=#00FF00>[开]</color> 马里奥娃娃</size>
+<size\=16><color\=#00FF00>[ON]</color> MASTERSWORD</size>=<size\=16><color\=#00FF00>[开]</color> 大师之剑</size>
+<size\=16><color\=#00FF00>[ON]</color> MONAHAT</size>=<size\=16><color\=#00FF00>[开]</color> 莫娜帽</size>
+<size\=16><color\=#00FF00>[ON]</color> MOOGLEBACK</size>=<size\=16><color\=#00FF00>[开]</color> 莫古力背部</size>
+<size\=16><color\=#00FF00>[ON]</color> PAPERHAMMER</size>=<size\=16><color\=#00FF00>[开]</color> 纸质锤子</size>
+<size\=16><color\=#00FF00>[ON]</color> PARABEETLEHAT</size>=<size\=16><color\=#00FF00>[开]</color> 甲虫帽</size>
+<size\=16><color\=#00FF00>[ON]</color> PICHUDOLL</size>=<size\=16><color\=#00FF00>[开]</color> 皮丘玩偶</size>
+<size\=16><color\=#00FF00>[ON]</color> PIKACHUBACK</size>=<size\=16><color\=#00FF00>[开]</color> 皮卡丘背部</size>
+<size\=16><color\=#00FF00>[ON]</color> PIPLUPDOLL</size>=<size\=16><color\=#00FF00>[开]</color> 皮宝宝玩偶</size>
+<size\=16><color\=#00FF00>[ON]</color> SPIDEYBACK</size>=<size\=16><color\=#00FF00>[开]</color> 蜘蛛侠背部</size>
+<size\=16><color\=#00FF00>[ON]</color> SUPERHAMMER</size>=<size\=16><color\=#00FF00>[开]</color> 超级锤子</size>
+<size\=16><color\=#00FF00>[ON]</color> TEDDIEHAT</size>=<size\=16><color\=#00FF00>[开]</color> 泰迪帽</size>
+<size\=16><color\=#00FF00>[ON]</color> TERENCEBACK</size>=<size\=16><color\=#00FF00>[开]</color> 特伦斯背部</size>
+<size\=16><color\=#00FF00>[ON]</color> TOADBACK</size>=<size\=16><color\=#00FF00>[开]</color> 蟾蜍背包</size>
+<size\=16><color\=#00FF00>[ON]</color> VEGETABACK</size>=<size\=16><color\=#00FF00>[开]</color> 贝吉塔背包</size>
+<size\=16><color\=#00FF00>[ON]</color> WALUIGICAP</size>=<size\=16><color\=#00FF00>[开]</color> 瓦路易吉帽</size>
+<size\=16><color\=#00FF00>[ON]</color> WARIOCAP</size>=<size\=16><color\=#00FF00>[开]</color> 瓦里奥帽</size>
+<size\=16><color\=#00FF00>[ON]</color> YUHAIR</size>=<size\=16><color\=#00FF00>[开]</color> 尤发</size>
+<size\=16><color\=#00FF00>[ON]</color> BEAKBOTTOM</size>=<size\=16><color\=#00FF00>[开]</color> 喙底</size>
+<size\=16><color\=#00FF00>[ON]</color> BEAKTOP</size>=<size\=16><color\=#00FF00>[开]</color> 喙顶</size>
+<size\=16><color\=#00FF00>[ON]</color> BLUEHORNS</size>=<size\=16><color\=#00FF00>[开]</color> 蓝角</size>
+<size\=16><color\=#00FF00>[ON]</color> BOTTLEGLASSES</size>=<size\=16><color\=#00FF00>[开]</color> 瓶底眼镜</size>
+<size\=16><color\=#00FF00>[ON]</color> CATEARS</size>=<size\=16><color\=#00FF00>[开]</color> 猫耳</size>
+<size\=16><color\=#00FF00>[ON]</color> CHUMBUCKET</size>=<size\=16><color\=#00FF00>[开]</color> 鱼饵桶</size>
+<size\=16><color\=#00FF00>[ON]</color> EXCLAMATE</size>=<size\=16><color\=#00FF00>[开]</color> 感叹</size>
+<size\=16><color\=#00FF00>[ON]</color> MOUSTACHE</size>=<size\=16><color\=#00FF00>[开]</color> 小胡子</size>
+<size\=16><color\=#00FF00>[ON]</color> PIRATEHAT</size>=<size\=16><color\=#00FF00>[开]</color> 海盗帽</size>
+<size\=16><color\=#00FF00>[ON]</color> RANGERHAT</size>=<size\=16><color\=#00FF00>[开]</color> 游侠帽</size>
+<size\=16><color\=#00FF00>[ON]</color> SAFARIHAT</size>=<size\=16><color\=#00FF00>[开]</color> 探险帽</size>
+<size\=16><color\=#00FF00>[ON]</color> SOMBRERO</size>=<size\=16><color\=#00FF00>[开]</color> 墨西哥宽边帽</size>
+<size\=16><color\=#00FF00>[ON]</color> TOPHAT</size>=<size\=16><color\=#00FF00>[开]</color> 高顶礼帽</size>
+<size\=16><color\=#00FF00>[ON]</color> WITCHHAT</size>=<size\=16><color\=#00FF00>[开]</color> 女巫帽</size>
+<size\=16><color\=#00FF00>[ON]</color> BAG</size>=<size\=16><color\=#00FF00>[开]</color> 包</size>
+<size\=16><color\=#00FF00>[ON]</color> BEANIE</size>=<size\=16><color\=#00FF00>[开]</color> 无檐帽</size>
+<size\=16><color\=#00FF00>[ON]</color> BUNNY</size>=<size\=16><color\=#00FF00>[开]</color> 兔子</size>
+<size\=16><color\=#00FF00>[ON]</color> COWBOYHAT</size>=<size\=16><color\=#00FF00>[开]</color> 牛仔帽</size>
+<size\=16><color\=#00FF00>[ON]</color> EGG</size>=<size\=16><color\=#00FF00>[开]</color> 蛋</size>
+<size\=16><color\=#00FF00>[ON]</color> GOLDHELM</size>=<size\=16><color\=#00FF00>[开]</color> 金头盔</size>
+<size\=16><color\=#00FF00>[ON]</color> LILMAN</size>=<size\=16><color\=#00FF00>[开]</color> 小矮人</size>
+<size\=16><color\=#00FF00>[ON]</color> SILVERHELMET 1</size>=<size\=16><color\=#00FF00>[开]</color> 银头盔1</size>
+<size\=16><color\=#00FF00>[ON]</color> UNICORN</size>=<size\=16><color\=#00FF00>[开]</color> 独角兽</size>
+<size\=16><color\=#00FF00>[ON]</color> AK74M</size>=<size\=16><color\=#00FF00>[开]</color> AK74M</size>
+<size\=16><color\=#00FF00>[ON]</color> AMONGUS</size>=<size\=16><color\=#00FF00>[开]</color> 在我们之中</size>
+<size\=16><color\=#00FF00>[ON]</color> BULBASAUR</size>=<size\=16><color\=#00FF00>[开]</color> 妙蛙种子</size>
+<size\=16><color\=#00FF00>[ON]</color> BUN BACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 兔子背包</size>
+<size\=16><color\=#00FF00>[ON]</color> CHARMANDER</size>=<size\=16><color\=#00FF00>[开]</color> 小火龙</size>
+<size\=16><color\=#00FF00>[ON]</color> COWBOY BLACK</size>=<size\=16><color\=#00FF00>[开]</color> 黑色牛仔</size>
+<size\=16><color\=#00FF00>[ON]</color> COWBOY BROWN</size>=<size\=16><color\=#00FF00>[开]</color> 棕色牛仔</size>
+<size\=16><color\=#00FF00>[ON]</color> CYBERSWORD</size>=<size\=16><color\=#00FF00>[开]</color> 网络剑</size>
+<size\=16><color\=#00FF00>[ON]</color> HAIR</size>=<size\=16><color\=#00FF00>[开]</color> 头发</size>
+<size\=16><color\=#00FF00>[ON]</color> HALO</size>=<size\=16><color\=#00FF00>[开]</color> 光环</size>
+<size\=16><color\=#00FF00>[ON]</color> HORNS</size>=<size\=16><color\=#00FF00>[开]</color> 犄角</size>
+<size\=16><color\=#00FF00>[ON]</color> JOINT</size>=<size\=16><color\=#00FF00>[开]</color> 关节</size>
+<size\=16><color\=#00FF00>[ON]</color> HEADDECOR</size>=<size\=16><color\=#00FF00>[开]</color> 头饰</size>
+<size\=16><color\=#00FF00>[ON]</color> MOONKNIGHT</size>=<size\=16><color\=#00FF00>[开]</color> 月骑士</size>
+<size\=16><color\=#00FF00>[ON]</color> MUSCULAR FIT</size>=<size\=16><color\=#00FF00>[开]</color> 肌肉合身</size>
+<size\=16><color\=#00FF00>[ON]</color> OCTOPUS</size>=<size\=16><color\=#00FF00>[开]</color> 章鱼</size>
+<size\=16><color\=#00FF00>[ON]</color> PEANUT</size>=<size\=16><color\=#00FF00>[开]</color> 花生</size>
+<size\=16><color\=#00FF00>[ON]</color> PIRATE HAT</size>=<size\=16><color\=#00FF00>[开]</color> 海盗帽</size>
+<size\=16><color\=#00FF00>[ON]</color> SQUIRTLE</size>=<size\=16><color\=#00FF00>[开]</color> 杰尼龟</size>
+<size\=16><color\=#00FF00>[ON]</color> SQUISHY HAIR</size>=<size\=16><color\=#00FF00>[开]</color> 软弹头发</size>
+<size\=16><color\=#00FF00>[ON]</color> STRAW HAT</size>=<size\=16><color\=#00FF00>[开]</color> 草帽</size>
+<size\=16><color\=#00FF00>[ON]</color> TALAHAIR</size>=<size\=16><color\=#00FF00>[开]</color> 塔拉发</size>
+<size\=16><color\=#00FF00>[ON]</color> TIARA</size>=<size\=16><color\=#00FF00>[开]</color> 头冠</size>
+<size\=16><color\=#00FF00>[ON]</color> VEST</size>=<size\=16><color\=#00FF00>[开]</color> 背心</size>
+<size\=16><color\=#00FF00>[ON]</color> AME HAT</size>=<size\=16><color\=#00FF00>[开]</color> 雨帽</size>
+<size\=16><color\=#00FF00>[ON]</color> BLACK CAT EARS</size>=<size\=16><color\=#00FF00>[开]</color> 黑猫耳朵</size>
+<size\=16><color\=#00FF00>[ON]</color> BOWTIE</size>=<size\=16><color\=#00FF00>[开]</color> 领结</size>
+<size\=16><color\=#00FF00>[ON]</color> BROWN STACHE</size>=<size\=16><color\=#00FF00>[开]</color> 棕色小胡子</size>
+<size\=16><color\=#00FF00>[ON]</color> CAT FACE</size>=<size\=16><color\=#00FF00>[开]</color> 猫脸</size>
+<size\=16><color\=#00FF00>[ON]</color> COLLAR</size>=<size\=16><color\=#00FF00>[开]</color> 衣领</size>
+<size\=16><color\=#00FF00>[ON]</color> DEMON TAIL</size>=<size\=16><color\=#00FF00>[开]</color> 恶魔尾巴</size>
+<size\=16><color\=#00FF00>[ON]</color> DOODLE BROWS</size>=<size\=16><color\=#00FF00>[开]</color> 涂鸦眉毛</size>
+<size\=16><color\=#00FF00>[ON]</color> HALO(1)</size>=<size\=16><color\=#00FF00>[开]</color> 光环(1)</size>
+<size\=16><color\=#00FF00>[ON]</color> HORNS(1)</size>=<size\=16><color\=#00FF00>[开]</color> 角(1)</size>
+<size\=16><color\=#00FF00>[ON]</color> KNIVES</size>=<size\=16><color\=#00FF00>[开]</color> 刀具</size>
+<size\=16><color\=#00FF00>[ON]</color> MLG GLASSES</size>=<size\=16><color\=#00FF00>[开]</color> MLG眼镜</size>
+<size\=16><color\=#00FF00>[ON]</color> ORANGE CAT EARS</size>=<size\=16><color\=#00FF00>[开]</color> 橙色猫耳</size>
+<size\=16><color\=#00FF00>[ON]</color> ROUND GLASSES</size>=<size\=16><color\=#00FF00>[开]</color> 圆框眼镜</size>
+<size\=16><color\=#00FF00>[ON]</color> SPAMTON HAIR AND GLASSES</size>=<size\=16><color\=#00FF00>[开]</color> 斯潘顿发型和眼镜</size>
+<size\=16><color\=#00FF00>[ON]</color> STRAW HAT(1)</size>=<size\=16><color\=#00FF00>[开]</color> 草帽(1)</size>
+<size\=16><color\=#00FF00>[ON]</color> TIE</size>=<size\=16><color\=#00FF00>[开]</color> 领带</size>
+<size\=16><color\=#00FF00>[ON]</color> TOP HAT</size>=<size\=16><color\=#00FF00>[开]</color> 高顶礼帽</size>
+<size\=16><color\=#00FF00>[ON]</color> BADGE</size>=<size\=16><color\=#00FF00>[开]</color> 徽章</size>
+<size\=16><color\=#00FF00>[ON]</color> BANDANA</size>=<size\=16><color\=#00FF00>[开]</color> 头巾</size>
+<size\=16><color\=#00FF00>[ON]</color> YEE HAW</size>=<size\=16><color\=#00FF00>[开]</color> 耶哈</size>
+<size\=16><color\=#00FF00>[ON]</color> DAFFLIPS_UPPER</size>=<size\=16><color\=#00FF00>[开]</color> 达夫利普斯上装</size>
+<size\=16><color\=#00FF00>[ON]</color> DAFFMOUTH_LOWER</size>=<size\=16><color\=#00FF00>[开]</color> 达夫口下装</size>
+<size\=16><color\=#00FF00>[ON]</color> MIKU</size>=<size\=16><color\=#00FF00>[开]</color> 初音</size>
+<size\=16><color\=#00FF00>[ON]</color> LEEK</size>=<size\=16><color\=#00FF00>[开]</color> 葱</size>
+<size\=16><color\=#00FF00>[ON]</color> NERD GLASSES 1</size>=<size\=16><color\=#00FF00>[开]</color> 书呆子眼镜1</size>
+<size\=16><color\=#00FF00>[ON]</color> AKUAKU</size>=<size\=16><color\=#00FF00>[开]</color> 阿库阿库</size>
+<size\=16><color\=#00FF00>[ON]</color> AMYBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 艾米背包</size>
+<size\=16><color\=#00FF00>[ON]</color> BANANAPEEL</size>=<size\=16><color\=#00FF00>[开]</color> 香蕉皮</size>
+<size\=16><color\=#00FF00>[ON]</color> BLUESHELL</size>=<size\=16><color\=#00FF00>[开]</color> 蓝色贝壳</size>
+<size\=16><color\=#00FF00>[ON]</color> BUZZJETPACK</size>=<size\=16><color\=#00FF00>[开]</color> 喷气背包</size>
+<size\=16><color\=#00FF00>[ON]</color> CHAINS</size>=<size\=16><color\=#00FF00>[开]</color> 链条</size>
+<size\=16><color\=#00FF00>[ON]</color> CHOCOBOHEAD</size>=<size\=16><color\=#00FF00>[开]</color> 陆行鸟头</size>
+<size\=16><color\=#00FF00>[ON]</color> FLINTSTONECART</size>=<size\=16><color\=#00FF00>[开]</color> 石器时代车</size>
+<size\=16><color\=#00FF00>[ON]</color> GAGGLASSES</size>=<size\=16><color\=#00FF00>[开]</color> 搞笑眼镜</size>
+<size\=16><color\=#00FF00>[ON]</color> GREENSHELL</size>=<size\=16><color\=#00FF00>[开]</color> 绿色龟壳</size>
+<size\=16><color\=#00FF00>[ON]</color> GROUCHOGLASSES</size>=<size\=16><color\=#00FF00>[开]</color> 暴躁眼镜</size>
+<size\=16><color\=#00FF00>[ON]</color> HYLIANHELMET</size>=<size\=16><color\=#00FF00>[开]</color> 海利亚头盔</size>
+<size\=16><color\=#00FF00>[ON]</color> ICECLIMBERHAMMER</size>=<size\=16><color\=#00FF00>[开]</color> 攀冰锤</size>
+<size\=16><color\=#00FF00>[ON]</color> ICECLIMBERHAT</size>=<size\=16><color\=#00FF00>[开]</color> 攀冰帽</size>
+<size\=16><color\=#00FF00>[ON]</color> LEPRECHAUNHAT</size>=<size\=16><color\=#00FF00>[开]</color> 小精灵帽</size>
+<size\=16><color\=#00FF00>[ON]</color> MUSHROOMHAT</size>=<size\=16><color\=#00FF00>[开]</color> 蘑菇帽</size>
+<size\=16><color\=#00FF00>[ON]</color> PIKACHUTAIL</size>=<size\=16><color\=#00FF00>[开]</color> 皮卡丘尾巴</size>
+<size\=16><color\=#00FF00>[ON]</color> SHEIKAHHAIR</size>=<size\=16><color\=#00FF00>[开]</color> 希卡族发型</size>
+<size\=16><color\=#00FF00>[ON]</color> SONICBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 索尼克背包</size>
+<size\=10><color\=#FFFFA0>Masaicker</color> and <color\=#FFFFA0>Yuriscat</color> co-developed.\n由<color\=#FFFFA0>马赛克了</color>和<color\=#FFFFA0>尤里的猫</color>共同制作。</size>=<size\=10><color\=#FFFFA0>马赛克</color> 和 <color\=#FFFFA0>尤里斯卡特</color> 共同开发<color\=#FFFFA0>马赛克了</color>和<color\=#FFFFA0>尤里的猫</color>共同制作。</size>
+<size\=16><color\=#FF0000>[OFF]</color> DERP EYES</size>=<size\=16><color\=#FF0000>[关闭]</color> 呆滞眼神</size>
+<size\=16><color\=#FF0000>[OFF]</color> FREDDY FAZBEAR</size>=<size\=16><color\=#FF0000>[关闭]</color> 弗雷迪·法兹熊</size>
+<size\=16><color\=#FF0000>[OFF]</color> TRASH CAN</size>=<size\=16><color\=#FF0000>[关闭]</color> 垃圾桶</size>
+<size\=16><color\=#FF0000>[OFF]</color> TRASH LID</size>=<size\=16><color\=#FF0000>[关闭]</color> 垃圾桶盖</size>
+
+###############################3.15翻译新增######################################################
+REPO_HD=高清
+Anti Aliasing=抗锯齿
+REPO Scanner=扫描仪
+REPO Config=模组配置
+Sturdier Valuables=更坚固的贵重物品
+The number of times the upgrade item is applied at the start of the game.=升级物品在游戏开始时应用的次数。
+The maximum number of times the upgrade item can appear in the shop.=升级物品在商店中出现的最大次数。
+The maximum number of times the upgrade item can be bought at once.=升级物品一次可购买的最大次数。
+The initial delay (in seconds) before valuables begin scaling.=贵重物品开始缩放前的初始延迟（以秒为单位）。
+The speed at which valuables scale down/up per update. Higher values make valuables shrink/expand faster.=贵重物品每次更新时缩放缩小/放大的速度。数值越高，贵重物品收缩/膨胀得越快。
+Sets the time players have to kill a monster and get money when there aren’t enough items and the objectives are still pending.=当物品不足且目标仍未完成时，设置玩家击杀怪物并获得金钱的时间限制。
+Ratio of Map Value to Extraction Goal. Ex: 20k map value to 10k goal is 2.0=地图价值与提取目标的比例。例如：20k地图价值对应10k目标为2.0。
+The maximum number of health pacls the shop will spawn. Vanilla default: 3=商店生成的生命补给包的最大数量。原版默认值为3。
+The maximum number of upgrades the shop will spawn. Vanilla default: 3=商店生成的升级物品的最大数量。原版默认值为3。
+The maximum number of items the shop will spawn. Vanilla default: 8=商店生成的物品的最大数量。原版默认值为8。
+How fast descriptions scroll. (Seconds per character)=描述滚动的速度。（每秒字符数）
+Description Scroll Speed=描述滚动速度
+The multiplier of how much value is deducted from a hit (lower is better)=击中时价值扣除的倍数（越低越好）。
+Damage Reduction Multiplier=伤害减免倍数。
+Health amount deducted each time while crouching | 蹲下治疗扣除自己的生命值=蹲下治疗时每次扣除的生命值。
+Health amount healed each time while crouching | 蹲下治疗治疗队友的生命值=蹲下治疗时每次治疗队友的生命值。
+Interval for grab heal while crouching (in seconds) | 蹲下治疗的间隔时间（秒）=蹲下治疗的间隔时间（秒）。
+You have more stamina, strength and can jump higher!\nPress R to continue=你拥有更多耐力、力量并能跳得更高！\n按R键继续
+<size\=16><color\=#FF0000>[OFF]</color> FEATHERED</size>=<size\=16><color\=#FF0000>[关闭]</color> 羽毛装饰</size>
+<size\=16><color\=#FF0000>[OFF]</color> FATCAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 肥猫</size>
+<size\=16><color\=#FF0000>[OFF]</color> FAIRYCOOL</size>=<size\=16><color\=#FF0000>[关闭]</color> 仙酷</size>
+<size\=16><color\=#FF0000>[OFF]</color> CLONETROOPER</size>=<size\=16><color\=#FF0000>[关闭]</color> 克隆人士兵</size>
+<size\=16><color\=#00FF00>[ON]</color> CLONETROOPER</size>=<size\=16><color\=#00FF00>[开]</color> 克隆人士兵</size>
+<size\=16><color\=#FF0000>[OFF]</color> FIREFIGHTER</size>=<size\=16><color\=#FF0000>[关闭]</color> 消防员</size>
+<size\=16><color\=#00FF00>[ON]</color> FIREFIGHTER</size>=<size\=16><color\=#00FF00>[开]</color> 消防员</size>
+<size\=16><color\=#FF0000>[OFF]</color> GARFIELD</size>=<size\=16><color\=#FF0000>[关闭]</color> 加菲猫</size>
+<size\=16><color\=#00FF00>[ON]</color> GARFIELD</size>=<size\=16><color\=#00FF00>[开]</color> 加菲猫</size>
+<size\=16><color\=#FF0000>[OFF]</color> GEARGRINDER</size>=<size\=16><color\=#FF0000>[关闭]</color> 齿轮研磨机</size>
+<size\=16><color\=#00FF00>[ON]</color> GEARGRINDER</size>=<size\=16><color\=#00FF00>[开]</color> 齿轮研磨机</size>
+<size\=16><color\=#FF0000>[OFF]</color> GEMCUTTERHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 宝石切割帽</size>
+<size\=16><color\=#00FF00>[ON]</color> GEMCUTTERHAT</size>=<size\=16><color\=#00FF00>[开]</color> 宝石切割帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> GENERAL</size>=<size\=16><color\=#FF0000>[关闭]</color> 将军</size>
+<size\=16><color\=#00FF00>[ON]</color> GENERAL</size>=<size\=16><color\=#00FF00>[开]</color> 将军</size>
+<size\=16><color\=#FF0000>[OFF]</color> GENIEOUS</size>=<size\=16><color\=#FF0000>[关闭]</color> 天才</size>
+<size\=16><color\=#00FF00>[ON]</color> GENIEOUS</size>=<size\=16><color\=#00FF00>[开]</color> 天才</size>
+<size\=16><color\=#FF0000>[OFF]</color> GIFTEDBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 天赋背包</size>
+<size\=16><color\=#00FF00>[ON]</color> GIFTEDBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 天赋背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> GLADIATOR</size>=<size\=16><color\=#FF0000>[关闭]</color> 角斗士</size>
+<size\=16><color\=#00FF00>[ON]</color> GLADIATOR</size>=<size\=16><color\=#00FF00>[开]</color> 角斗士</size>
+<size\=16><color\=#FF0000>[OFF]</color> GNOMEDOME</size>=<size\=16><color\=#FF0000>[关闭]</color> 侏儒圆顶</size>
+<size\=16><color\=#00FF00>[ON]</color> GNOMEDOME</size>=<size\=16><color\=#00FF00>[开]</color> 侏儒圆顶</size>
+<size\=16><color\=#FF0000>[OFF]</color> GNORCCOMMANDO</size>=<size\=16><color\=#FF0000>[关闭]</color> 地精突击队</size>
+<size\=16><color\=#00FF00>[ON]</color> GNORCCOMMANDO</size>=<size\=16><color\=#00FF00>[开]</color> 地精突击队</size>
+<size\=16><color\=#FF0000>[OFF]</color> GNORCMUSKETEER</size>=<size\=16><color\=#FF0000>[关闭]</color> 地精火枪手</size>
+<size\=16><color\=#00FF00>[ON]</color> GNORCMUSKETEER</size>=<size\=16><color\=#00FF00>[开]</color> 地精火枪手</size>
+<size\=16><color\=#FF0000>[OFF]</color> GNORCSENTRY</size>=<size\=16><color\=#FF0000>[关闭]</color> 地精哨兵</size>
+<size\=16><color\=#00FF00>[ON]</color> GNORCSENTRY</size>=<size\=16><color\=#00FF00>[开]</color> 地精哨兵</size>
+<size\=16><color\=#FF0000>[OFF]</color> GOFORGOLD</size>=<size\=16><color\=#FF0000>[关闭]</color> 勇夺金牌</size>
+<size\=16><color\=#00FF00>[ON]</color> GOFORGOLD</size>=<size\=16><color\=#00FF00>[开]</color> 勇夺金牌</size>
+<size\=16><color\=#FF0000>[OFF]</color> GRAVITYGUN</size>=<size\=16><color\=#FF0000>[关闭]</color> 重力枪</size>
+<size\=16><color\=#00FF00>[ON]</color> GRAVITYGUN</size>=<size\=16><color\=#00FF00>[开]</color> 重力枪</size>
+<size\=16><color\=#FF0000>[OFF]</color> HARDHELM</size>=<size\=16><color\=#FF0000>[关闭]</color> 硬头盔</size>
+<size\=16><color\=#00FF00>[ON]</color> HARDHELM</size>=<size\=16><color\=#00FF00>[开]</color> 硬头盔</size>
+<size\=16><color\=#FF0000>[OFF]</color> HATSAPLENTY</size>=<size\=16><color\=#FF0000>[关闭]</color> 帽子多多</size>
+<size\=16><color\=#00FF00>[ON]</color> HATSAPLENTY</size>=<size\=16><color\=#00FF00>[开]</color> 帽子多多</size>
+<size\=16><color\=#FF0000>[OFF]</color> HONKHONK2</size>=<size\=16><color\=#FF0000>[关闭]</color> 嘟嘟2</size>
+<size\=16><color\=#00FF00>[ON]</color> HONKHONK2</size>=<size\=16><color\=#00FF00>[开]</color> 嘟嘟2</size>
+<size\=16><color\=#FF0000>[OFF]</color> HONKHONK</size>=<size\=16><color\=#FF0000>[关闭]</color> 嘟嘟</size>
+<size\=16><color\=#00FF00>[ON]</color> HONKHONK</size>=<size\=16><color\=#00FF00>[开]</color> 嘟嘟</size>
+<size\=16><color\=#FF0000>[OFF]</color> HYDRATION</size>=<size\=16><color\=#FF0000>[关闭]</color> 补水</size>
+<size\=16><color\=#00FF00>[ON]</color> HYDRATION</size>=<size\=16><color\=#00FF00>[开]</color> 补水</size>
+<size\=16><color\=#FF0000>[OFF]</color> JED</size>=<size\=16><color\=#FF0000>[关闭]</color> 杰德</size>
+<size\=16><color\=#00FF00>[ON]</color> JED</size>=<size\=16><color\=#00FF00>[开]</color> 杰德</size>
+<size\=16><color\=#FF0000>[OFF]</color> KERFBACKPACKBLUE</size>=<size\=16><color\=#FF0000>[关闭]</color> 凯夫蓝色背包</size>
+<size\=16><color\=#00FF00>[ON]</color> KERFBACKPACKBLUE</size>=<size\=16><color\=#00FF00>[开]</color> 凯夫蓝色背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> KERFBACKPACKPINK</size>=<size\=16><color\=#FF0000>[关闭]</color> 凯夫粉色背包</size>
+<size\=16><color\=#00FF00>[ON]</color> KERFBACKPACKPINK</size>=<size\=16><color\=#00FF00>[开]</color> 凯夫粉色背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> KERFBACKPACKRED</size>=<size\=16><color\=#FF0000>[关闭]</color> 凯夫红色背包</size>
+<size\=16><color\=#00FF00>[ON]</color> KERFBACKPACKRED</size>=<size\=16><color\=#00FF00>[开]</color> 凯夫红色背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> LEGOYODA</size>=<size\=16><color\=#FF0000>[关闭]</color> 乐高尤达</size>
+<size\=16><color\=#00FF00>[ON]</color> LEGOYODA</size>=<size\=16><color\=#00FF00>[开]</color> 乐高尤达</size>
+<size\=16><color\=#FF0000>[OFF]</color> LETTHEMEATWUMPA</size>=<size\=16><color\=#FF0000>[关闭]</color> 让他们吃伍帕果</size>
+<size\=16><color\=#00FF00>[ON]</color> LETTHEMEATWUMPA</size>=<size\=16><color\=#00FF00>[开]</color> 让他们吃伍帕果</size>
+<size\=16><color\=#FF0000>[OFF]</color> MAGICAL</size>=<size\=16><color\=#FF0000>[关闭]</color> 神奇的</size>
+<size\=16><color\=#00FF00>[ON]</color> MAGICAL</size>=<size\=16><color\=#00FF00>[开]</color> 神奇的</size>
+<size\=16><color\=#FF0000>[OFF]</color> MALLCOP</size>=<size\=16><color\=#FF0000>[关闭]</color> 商场保安</size>
+<size\=16><color\=#00FF00>[ON]</color> MALLCOP</size>=<size\=16><color\=#00FF00>[开]</color> 商场保安</size>
+<size\=16><color\=#FF0000>[OFF]</color> MEGAMAN</size>=<size\=16><color\=#FF0000>[关闭]</color> 洛克人</size>
+<size\=16><color\=#00FF00>[ON]</color> MEGAMAN</size>=<size\=16><color\=#00FF00>[开]</color> 洛克人</size>
+<size\=16><color\=#FF0000>[OFF]</color> MELTY</size>=<size\=16><color\=#FF0000>[关闭]</color> 融化的</size>
+<size\=16><color\=#00FF00>[ON]</color> MELTY</size>=<size\=16><color\=#00FF00>[开]</color> 融化的</size>
+<size\=16><color\=#FF0000>[OFF]</color> MEOWSICDJ</size>=<size\=16><color\=#FF0000>[关闭]</color> 喵音DJ</size>
+<size\=16><color\=#00FF00>[ON]</color> MEOWSICDJ</size>=<size\=16><color\=#00FF00>[开]</color> 喵音DJ</size>
+<size\=16><color\=#FF0000>[OFF]</color> MONSIEUR</size>=<size\=16><color\=#FF0000>[关闭]</color> 先生</size>
+<size\=16><color\=#00FF00>[ON]</color> MONSIEUR</size>=<size\=16><color\=#00FF00>[开]</color> 先生</size>
+<size\=16><color\=#FF0000>[OFF]</color> NEONTRUCKER</size>=<size\=16><color\=#FF0000>[关闭]</color> 霓虹卡车司机</size>
+<size\=16><color\=#00FF00>[ON]</color> NEONTRUCKER</size>=<size\=16><color\=#00FF00>[开]</color> 霓虹卡车司机</size>
+<size\=16><color\=#FF0000>[OFF]</color> NSANEHATTER</size>=<size\=16><color\=#FF0000>[关闭]</color> 疯狂帽匠</size>
+<size\=16><color\=#00FF00>[ON]</color> NSANEHATTER</size>=<size\=16><color\=#00FF00>[开]</color> 疯狂帽匠</size>
+<size\=16><color\=#FF0000>[OFF]</color> OSWINDRAGON</size>=<size\=16><color\=#FF0000>[关闭]</color> 奥斯温龙</size>
+<size\=16><color\=#00FF00>[ON]</color> OSWINDRAGON</size>=<size\=16><color\=#00FF00>[开]</color> 奥斯温龙</size>
+<size\=16><color\=#FF0000>[OFF]</color> OUTBACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 内陆</size>
+<size\=16><color\=#00FF00>[ON]</color> OUTBACK</size>=<size\=16><color\=#00FF00>[开]</color> 内陆</size>
+<size\=16><color\=#FF0000>[OFF]</color> OUTLAW</size>=<size\=16><color\=#FF0000>[关闭]</color> 亡命之徒</size>
+<size\=16><color\=#00FF00>[ON]</color> OUTLAW</size>=<size\=16><color\=#00FF00>[开]</color> 亡命之徒</size>
+<size\=16><color\=#FF0000>[OFF]</color> PAGODA</size>=<size\=16><color\=#FF0000>[关闭]</color> 宝塔</size>
+<size\=16><color\=#00FF00>[ON]</color> PAGODA</size>=<size\=16><color\=#00FF00>[开]</color> 宝塔</size>
+<size\=16><color\=#FF0000>[OFF]</color> PARTYPARROT</size>=<size\=16><color\=#FF0000>[关闭]</color> 派对鹦鹉</size>
+<size\=16><color\=#00FF00>[ON]</color> PARTYPARROT</size>=<size\=16><color\=#00FF00>[开]</color> 派对鹦鹉</size>
+<size\=16><color\=#FF0000>[OFF]</color> PARTYPOLKADOT</size>=<size\=16><color\=#FF0000>[关闭]</color> 派对波点</size>
+<size\=16><color\=#00FF00>[ON]</color> PARTYPOLKADOT</size>=<size\=16><color\=#00FF00>[开]</color> 派对波点</size>
+<size\=16><color\=#FF0000>[OFF]</color> PARTYPUFFBALL</size>=<size\=16><color\=#FF0000>[关闭]</color> 派对泡芙球</size>
+<size\=16><color\=#00FF00>[ON]</color> PARTYPUFFBALL</size>=<size\=16><color\=#00FF00>[开]</color> 派对泡芙球</size>
+<size\=16><color\=#FF0000>[OFF]</color> PARTYPURPLE</size>=<size\=16><color\=#FF0000>[关闭]</color> 派对紫色</size>
+<size\=16><color\=#00FF00>[ON]</color> PARTYPURPLE</size>=<size\=16><color\=#00FF00>[开]</color> 派对紫色</size>
+<size\=16><color\=#FF0000>[OFF]</color> PHYSICSGUN</size>=<size\=16><color\=#FF0000>[关闭]</color> 物理枪</size>
+<size\=16><color\=#00FF00>[ON]</color> PHYSICSGUN</size>=<size\=16><color\=#00FF00>[开]</color> 物理枪</size>
+<size\=16><color\=#FF0000>[OFF]</color> PINSANDNEEDLES</size>=<size\=16><color\=#FF0000>[关闭]</color> 针扎感</size>
+<size\=16><color\=#00FF00>[ON]</color> PINSANDNEEDLES</size>=<size\=16><color\=#00FF00>[开]</color> 针扎感</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIRATECAP</size>=<size\=16><color\=#FF0000>[关闭]</color> 海盗帽</size>
+<size\=16><color\=#00FF00>[ON]</color> PIRATECAP</size>=<size\=16><color\=#00FF00>[开]</color> 海盗帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIRATEZOMBIE</size>=<size\=16><color\=#FF0000>[关闭]</color> 海盗僵尸</size>
+<size\=16><color\=#00FF00>[ON]</color> PIRATEZOMBIE</size>=<size\=16><color\=#00FF00>[开]</color> 海盗僵尸</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIZZAMYMIND</size>=<size\=16><color\=#FF0000>[关闭]</color> 披萨我的思绪</size>
+<size\=16><color\=#00FF00>[ON]</color> PIZZAMYMIND</size>=<size\=16><color\=#00FF00>[开]</color> 披萨我的思绪</size>
+<size\=16><color\=#FF0000>[OFF]</color> POET</size>=<size\=16><color\=#FF0000>[关闭]</color> 诗人</size>
+<size\=16><color\=#00FF00>[ON]</color> POET</size>=<size\=16><color\=#00FF00>[开]</color> 诗人</size>
+<size\=16><color\=#FF0000>[OFF]</color> POWEREDBYWUMPA</size>=<size\=16><color\=#FF0000>[关闭]</color> 由瓦帕驱动</size>
+<size\=16><color\=#00FF00>[ON]</color> POWEREDBYWUMPA</size>=<size\=16><color\=#00FF00>[开]</color> 由瓦帕驱动</size>
+<size\=16><color\=#FF0000>[OFF]</color> QUACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 嘎嘎</size>
+<size\=16><color\=#00FF00>[ON]</color> QUACK</size>=<size\=16><color\=#00FF00>[开]</color> 嘎嘎</size>
+<size\=16><color\=#FF0000>[OFF]</color> RAGTIMEBOWLER</size>=<size\=16><color\=#FF0000>[关闭]</color> 拉格泰姆投球手</size>
+<size\=16><color\=#00FF00>[ON]</color> RAGTIMEBOWLER</size>=<size\=16><color\=#00FF00>[开]</color> 拉格泰姆投球手</size>
+<size\=16><color\=#FF0000>[OFF]</color> SEALBACKPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 海豹背包</size>
+<size\=16><color\=#00FF00>[ON]</color> SEALBACKPACK</size>=<size\=16><color\=#00FF00>[开]</color> 海豹背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> SERGEANTTUB</size>=<size\=16><color\=#FF0000>[关闭]</color> 管士官</size>
+<size\=16><color\=#00FF00>[ON]</color> SERGEANTTUB</size>=<size\=16><color\=#00FF00>[开]</color> 管士官</size>
+<size\=16><color\=#FF0000>[OFF]</color> SHINDIGSOMBRERO</size>=<size\=16><color\=#FF0000>[关闭]</color> 狂欢帽</size>
+<size\=16><color\=#00FF00>[ON]</color> SHINDIGSOMBRERO</size>=<size\=16><color\=#00FF00>[开]</color> 狂欢帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> SKULL</size>=<size\=16><color\=#FF0000>[关闭]</color> 骷髅</size>
+<size\=16><color\=#00FF00>[ON]</color> SKULL</size>=<size\=16><color\=#00FF00>[开]</color> 骷髅</size>
+<size\=16><color\=#FF0000>[OFF]</color> SLUG</size>=<size\=16><color\=#FF0000>[关闭]</color> 蛞蝓</size>
+<size\=16><color\=#00FF00>[ON]</color> SLUG</size>=<size\=16><color\=#00FF00>[开]</color> 蛞蝓</size>
+<size\=16><color\=#FF0000>[OFF]</color> SNAILRHINO</size>=<size\=16><color\=#FF0000>[关闭]</color> 蜗牛犀牛</size>
+<size\=16><color\=#00FF00>[ON]</color> SNAILRHINO</size>=<size\=16><color\=#00FF00>[开]</color> 蜗牛犀牛</size>
+<size\=16><color\=#FF0000>[OFF]</color> SNEAKYREFERENCE</size>=<size\=16><color\=#FF0000>[关闭]</color> 隐秘参考</size>
+<size\=16><color\=#00FF00>[ON]</color> SNEAKYREFERENCE</size>=<size\=16><color\=#00FF00>[开]</color> 隐秘参考</size>
+<size\=16><color\=#FF0000>[OFF]</color> SPACEMARINE</size>=<size\=16><color\=#FF0000>[关闭]</color> 星际战士</size>
+<size\=16><color\=#00FF00>[ON]</color> SPACEMARINE</size>=<size\=16><color\=#00FF00>[开]</color> 星际战士</size>
+<size\=16><color\=#FF0000>[OFF]</color> SPYRO</size>=<size\=16><color\=#FF0000>[关闭]</color> 斯派罗</size>
+<size\=16><color\=#00FF00>[ON]</color> SPYRO</size>=<size\=16><color\=#00FF00>[开]</color> 斯派罗</size>
+<size\=16><color\=#FF0000>[OFF]</color> SUPA</size>=<size\=16><color\=#FF0000>[关闭]</color> 苏帕</size>
+<size\=16><color\=#00FF00>[ON]</color> SUPA</size>=<size\=16><color\=#00FF00>[开]</color> 苏帕</size>
+<size\=16><color\=#FF0000>[OFF]</color> TAILGATOR</size>=<size\=16><color\=#FF0000>[关闭]</color> 尾鳄</size>
+<size\=16><color\=#00FF00>[ON]</color> TAILGATOR</size>=<size\=16><color\=#00FF00>[开]</color> 尾鳄</size>
+<size\=16><color\=#FF0000>[OFF]</color> TALLYHO</size>=<size\=16><color\=#FF0000>[关闭]</color> 塔利吼</size>
+<size\=16><color\=#00FF00>[ON]</color> TALLYHO</size>=<size\=16><color\=#00FF00>[开]</color> 塔利吼</size>
+<size\=16><color\=#FF0000>[OFF]</color> TEAPARTY</size>=<size\=16><color\=#FF0000>[关闭]</color> 茶会</size>
+<size\=16><color\=#00FF00>[ON]</color> TEAPARTY</size>=<size\=16><color\=#00FF00>[开]</color> 茶会</size>
+<size\=16><color\=#FF0000>[OFF]</color> TEDSHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 泰德沙</size>
+<size\=16><color\=#00FF00>[ON]</color> TEDSHAT</size>=<size\=16><color\=#00FF00>[开]</color> 泰德沙</size>
+<size\=16><color\=#FF0000>[OFF]</color> THIEF</size>=<size\=16><color\=#FF0000>[关闭]</color> 小偷</size>
+<size\=16><color\=#00FF00>[ON]</color> THIEF</size>=<size\=16><color\=#00FF00>[开]</color> 小偷</size>
+<size\=16><color\=#FF0000>[OFF]</color> TOMASDRAGON</size>=<size\=16><color\=#FF0000>[关闭]</color> 托马斯龙</size>
+<size\=16><color\=#00FF00>[ON]</color> TOMASDRAGON</size>=<size\=16><color\=#00FF00>[开]</color> 托马斯龙</size>
+<size\=16><color\=#FF0000>[OFF]</color> TRICKY</size>=<size\=16><color\=#FF0000>[关闭]</color> 狡猾</size>
+<size\=16><color\=#00FF00>[ON]</color> TRICKY</size>=<size\=16><color\=#00FF00>[开]</color> 狡猾</size>
+<size\=16><color\=#FF0000>[OFF]</color> URBAN</size>=<size\=16><color\=#FF0000>[关闭]</color> 都市</size>
+<size\=16><color\=#00FF00>[ON]</color> URBAN</size>=<size\=16><color\=#00FF00>[开]</color> 都市</size>
+<size\=16><color\=#FF0000>[OFF]</color> WILDWEST</size>=<size\=16><color\=#FF0000>[关闭]</color> 狂野西部</size>
+<size\=16><color\=#00FF00>[ON]</color> WILDWEST</size>=<size\=16><color\=#00FF00>[开]</color> 狂野西部</size>
+<size\=16><color\=#FF0000>[OFF]</color> WIZBIZ</size>=<size\=16><color\=#FF0000>[关闭]</color> 魔法生意</size>
+<size\=16><color\=#00FF00>[ON]</color> WIZBIZ</size>=<size\=16><color\=#00FF00>[开]</color> 魔法生意</size>
+<size\=16><color\=#FF0000>[OFF]</color> WUMPANDCIRCUMSTANCE</size>=<size\=16><color\=#FF0000>[关闭]</color> 隆重仪式</size>
+<size\=16><color\=#00FF00>[ON]</color> WUMPANDCIRCUMSTANCE</size>=<size\=16><color\=#00FF00>[开]</color> 隆重仪式</size>
+<size\=16><color\=#FF0000>[OFF]</color> WUMPFIESTA</size>=<size\=16><color\=#FF0000>[关闭]</color> 瓦姆节</size>
+<size\=16><color\=#00FF00>[ON]</color> WUMPFIESTA</size>=<size\=16><color\=#00FF00>[开]</color> 瓦姆节</size>
+<size\=16><color\=#FF0000>[OFF]</color> YARRRRR</size>=<size\=16><color\=#FF0000>[关闭]</color> 呀啊啊啊</size>
+<size\=16><color\=#00FF00>[ON]</color> YARRRRR</size>=<size\=16><color\=#00FF00>[开]</color> 呀啊啊啊</size>
+<size\=16><color\=#FF0000>[OFF]</color> YEEHAW</size>=<size\=16><color\=#FF0000>[关闭]</color> 耶哈</size>
+<size\=16><color\=#00FF00>[ON]</color> YEEHAW</size>=<size\=16><color\=#00FF00>[开]</color> 耶哈</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIRATEHAT(1)</size>=<size\=16><color\=#FF0000>[关闭]</color> 海盗帽(1)</size>
+<size\=16><color\=#00FF00>[ON]</color> PIRATEHAT(1)</size>=<size\=16><color\=#00FF00>[开]</color> 海盗帽(1)</size>
+<size\=16><color\=#FF0000>[OFF]</color> AXOLOTL</size>=<size\=16><color\=#FF0000>[关闭]</color> 美西钝口螈</size>
+<size\=16><color\=#00FF00>[ON]</color> AXOLOTL</size>=<size\=16><color\=#00FF00>[开]</color> 美西钝口螈</size>
+<size\=16><color\=#FF0000>[OFF]</color> BABYYODA</size>=<size\=16><color\=#FF0000>[关闭]</color> 格鲁古</size>
+<size\=16><color\=#00FF00>[ON]</color> BABYYODA</size>=<size\=16><color\=#00FF00>[开]</color> 格鲁古</size>
+<size\=16><color\=#FF0000>[OFF]</color> DOG</size>=<size\=16><color\=#FF0000>[关闭]</color> 狗</size>
+<size\=16><color\=#00FF00>[ON]</color> DOG</size>=<size\=16><color\=#00FF00>[开]</color> 狗</size>
+<size\=16><color\=#FF0000>[OFF]</color> EYE</size>=<size\=16><color\=#FF0000>[关闭]</color> 眼睛</size>
+<size\=16><color\=#00FF00>[ON]</color> EYE</size>=<size\=16><color\=#00FF00>[开]</color> 眼睛</size>
+<size\=16><color\=#FF0000>[OFF]</color> FISH</size>=<size\=16><color\=#FF0000>[关闭]</color> 鱼</size>
+<size\=16><color\=#00FF00>[ON]</color> FISH</size>=<size\=16><color\=#00FF00>[开]</color> 鱼</size>
+<size\=16><color\=#FF0000>[OFF]</color> HORSE</size>=<size\=16><color\=#FF0000>[关闭]</color> 马</size>
+<size\=16><color\=#00FF00>[ON]</color> HORSE</size>=<size\=16><color\=#00FF00>[开]</color> 马</size>
+<size\=16><color\=#FF0000>[OFF]</color> PIGEON</size>=<size\=16><color\=#FF0000>[关闭]</color> 鸽子</size>
+<size\=16><color\=#00FF00>[ON]</color> PIGEON</size>=<size\=16><color\=#00FF00>[开]</color> 鸽子</size>
+<size\=16><color\=#FF0000>[OFF]</color> SCIFIHELM</size>=<size\=16><color\=#FF0000>[关闭]</color> 科幻头盔</size>
+<size\=16><color\=#00FF00>[ON]</color> SCIFIHELM</size>=<size\=16><color\=#00FF00>[开]</color> 科幻头盔</size>
+You are able to use your mana to become incredibly strong!\nPress M to see all your spells and press R to continue=你可以用你的法力变得无比强大！\n按M查看所有法术，按R继续。
+Mage=法师
+[H] Heal yourself for {{A}} health ({{B}} Mana)\n\n[N] Regenerate your stamina to full ({{C}} Mana)\n\n[J] Become faster for {{D}} seconds ({{E}} Mana)\n\n[O] Boost the effectivity of spells used in the next {{F}} seconds ({{G}} Mana)\n\n[K] Jump higher for {{H}} seconds ({{I}} Mana)=[H] 治疗自己{{A}}点生命值（消耗{{B}}点法力）\n\n[N] 完全恢复耐力（消耗{{C}}点法力）\n\n[J] 在{{D}}秒内提升速度（消耗{{E}}点法力）\n\n[O] 在接下来的{{F}}秒内提升法术效果（消耗{{G}}点法力）\n\n[K] 在{{H}}秒内跳得更高（消耗{{I}}点法力）
+r:"^Map: \$([0-9,]+(?:\.[0-9]+)?)"=地图: $1
+<size\=18><color\=#FFFFFF>C</color><color\=#E6E6E6>L</color><color\=#CCCCCC>O</color><color\=#B3B3B3>S</color><color\=#999999>E</color></size>=<size\=18><color\=#FFFFFF>关</color><color\=#E6E6E6>闭</color><color\=#CCCCCC>UI</color><color\=#B3B3B3>界</color><color\=#999999>面</color></size>
+<color\=#FF0000>M</color><color\=#FF3300>O</color><color\=#FF6600>R</color><color\=#FF9900>E</color><color\=#FFCC00>H</color><color\=#FFDD00>E</color><color\=#FFEE00>A</color><color\=#FFFF00>D</color>=<color\=#FF0000>更</color><color\=#FF3300>多</color><color\=#FF6600>的</color><color\=#FF9900>化</color><color\=#FFCC00>妆</color><color\=#FFDD00>品</color><color\=#FFEE00>U</color><color\=#FFFF00>I</color>
+R.E.P.O. Sync Ho...=同步主机升级
+Big Nuke=大型核弹
+Stamina=耐力
+R.E.P.O. Sync Host Upgrades=同步主机升级
+Map Player Count=地图玩家数量
+Max Hit Count=最大命中次数
+The range of the explosion. (For comparison: explosive grenade range is 1)=爆炸范围。（对比：爆炸手榴弹范围为1）
+Range=范围
+The amount of heavy hits required to trigger the explosion. (0 means only explode on destroy)=触发爆炸所需的重击次数。（0表示仅在摧毁时爆炸）
+Min Nuke Sell Value=最低核弹出售价值
+The minimum value of the nuke when sold.=核弹出售时的最低价值。
+Max Nuke Sell Value=核弹最高出售价值
+The maximum value of the nuke when sold.=核弹出售时的最高价值。
+<sprite name\=message_arrow>=<sprite name\=message_arrow>
+<sprite name\=message>=<sprite name\=message>
+<size\=16><color\=#FF0000>[OFF]</color> SKULL(1)</size>=<size\=16><color\=#FF0000>[关闭]</color> 骷髅(1)</size>
+<size\=16><color\=#FF0000>[OFF]</color> REVOLVER</size>=<size\=16><color\=#FF0000>[关闭]</color> 左轮手枪</size>
+<size\=16><color\=#FF0000>[OFF]</color> KUBIKIRIBOCHO</size>=<size\=16><color\=#FF0000>[关闭]</color> 库比基里博乔</size>
+<size\=16><color\=#FF0000>[OFF]</color> GASMASK</size>=<size\=16><color\=#FF0000>[关闭]</color> 防毒面具</size>
+<size\=16><color\=#FF0000>[OFF]</color> CAPTAINAMERICASHIELD</size>=<size\=16><color\=#FF0000>[关闭]</color> 美国队长盾牌</size>
+<size\=16><color\=#00FF00>[ON]</color> CAPTAINAMERICASHIELD</size>=<size\=16><color\=#00FF00>[开]</color> 美国队长盾牌</size>
+<size\=16><color\=#FF0000>[OFF]</color> VANOSS</size>=<size\=16><color\=#FF0000>[关闭]</color> 瓦诺斯</size>
+<size\=16><color\=#00FF00>[ON]</color> VANOSS</size>=<size\=16><color\=#00FF00>[开]</color> 瓦诺斯</size>
+<size\=16><color\=#FF0000>[OFF]</color> FEZ</size>=<size\=16><color\=#FF0000>[关闭]</color> 费斯帽</size>
+<size\=16><color\=#00FF00>[ON]</color> FEZ</size>=<size\=16><color\=#00FF00>[开]</color> 费斯帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> CHOKER</size>=<size\=16><color\=#FF0000>[关闭]</color> 颈圈</size>
+<size\=16><color\=#00FF00>[ON]</color> CHOKER</size>=<size\=16><color\=#00FF00>[开]</color> 颈圈</size>
+<size\=16><color\=#FF0000>[OFF]</color> SUNGLASSES</size>=<size\=16><color\=#FF0000>[关闭]</color> 太阳镜</size>
+<size\=16><color\=#00FF00>[ON]</color> SUNGLASSES</size>=<size\=16><color\=#00FF00>[开]</color> 太阳镜</size>
+<size\=16><color\=#FF0000>[OFF]</color> BACKBOW</size>=<size\=16><color\=#FF0000>[关闭]</color> 背弓</size>
+<size\=16><color\=#00FF00>[ON]</color> BACKBOW</size>=<size\=16><color\=#00FF00>[开]</color> 背弓</size>
+<size\=16><color\=#FF0000>[OFF]</color> BANJO</size>=<size\=16><color\=#FF0000>[关闭]</color> 班卓琴</size>
+<size\=16><color\=#00FF00>[ON]</color> BANJO</size>=<size\=16><color\=#00FF00>[开]</color> 班卓琴</size>
+<size\=16><color\=#FF0000>[OFF]</color> BATMANBADGE</size>=<size\=16><color\=#FF0000>[关闭]</color> 蝙蝠侠徽章</size>
+<size\=16><color\=#00FF00>[ON]</color> BATMANBADGE</size>=<size\=16><color\=#00FF00>[开]</color> 蝙蝠侠徽章</size>
+<size\=16><color\=#FF0000>[OFF]</color> BEN10BADGE</size>=<size\=16><color\=#FF0000>[关闭]</color> Ben10徽章</size>
+<size\=16><color\=#00FF00>[ON]</color> BEN10BADGE</size>=<size\=16><color\=#00FF00>[开]</color> Ben10徽章</size>
+<size\=16><color\=#FF0000>[OFF]</color> DOUGDIMMADOMEHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 道格·迪马多姆帽</size>
+<size\=16><color\=#00FF00>[ON]</color> DOUGDIMMADOMEHAT</size>=<size\=16><color\=#00FF00>[开]</color> 道格·迪马多姆帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> KAZOOIE</size>=<size\=16><color\=#FF0000>[关闭]</color> 卡祖笛</size>
+<size\=16><color\=#00FF00>[ON]</color> KAZOOIE</size>=<size\=16><color\=#00FF00>[开]</color> 卡祖笛</size>
+<size\=16><color\=#FF0000>[OFF]</color> KOOPACLOWNCART</size>=<size\=16><color\=#FF0000>[关闭]</color> 库巴小丑车</size>
+<size\=16><color\=#00FF00>[ON]</color> KOOPACLOWNCART</size>=<size\=16><color\=#00FF00>[开]</color> 库巴小丑车</size>
+<size\=16><color\=#FF0000>[OFF]</color> MARXHAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 马克思帽</size>
+<size\=16><color\=#00FF00>[ON]</color> MARXHAT</size>=<size\=16><color\=#00FF00>[开]</color> 马克思帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> NAVI</size>=<size\=16><color\=#FF0000>[关闭]</color> 娜薇</size>
+<size\=16><color\=#00FF00>[ON]</color> NAVI</size>=<size\=16><color\=#00FF00>[开]</color> 娜薇</size>
+<size\=16><color\=#FF0000>[OFF]</color> POWERRANGERBADGE</size>=<size\=16><color\=#FF0000>[关闭]</color> 强力游侠徽章</size>
+<size\=16><color\=#00FF00>[ON]</color> POWERRANGERBADGE</size>=<size\=16><color\=#00FF00>[开]</color> 强力游侠徽章</size>
+<size\=16><color\=#FF0000>[OFF]</color> POWERSTARBADGE</size>=<size\=16><color\=#FF0000>[关闭]</color> 力量之星徽章</size>
+<size\=16><color\=#00FF00>[ON]</color> POWERSTARBADGE</size>=<size\=16><color\=#00FF00>[开]</color> 力量之星徽章</size>
+<size\=16><color\=#FF0000>[OFF]</color> PRINCESSPEACHHAIR</size>=<size\=16><color\=#FF0000>[关闭]</color> 碧琪公主发型</size>
+<size\=16><color\=#00FF00>[ON]</color> PRINCESSPEACHHAIR</size>=<size\=16><color\=#00FF00>[开]</color> 碧琪公主发型</size>
+<size\=16><color\=#FF0000>[OFF]</color> PURSE</size>=<size\=16><color\=#FF0000>[关闭]</color> 钱包</size>
+<size\=16><color\=#FF0000>[OFF]</color> SHOULDERSPIKES</size>=<size\=16><color\=#FF0000>[关闭]</color> 肩刺</size>
+<size\=16><color\=#FF0000>[OFF]</color> SPIDERMANBADGE</size>=<size\=16><color\=#FF0000>[关闭]</color> 蜘蛛侠徽章</size>
+Scanner: {{A}}s=扫描仪：{{A}}s
+Scanner Ready=扫描仪准备就绪
+<b>FOCUS > </b>Fill the extraction point with valuables\nValuables: <b>$1</b> (<color\=#558B2F><b>$1</b></color>)=<b>提示> </b>在提取点装满贵重物品  \n当前关卡总价值： <b>$1</b> (<color\=#558B2F><b>$1</b></color>)
+<b>提示> </b>在提取点装满贵重物品\nValuables: <b>$1</b> (<color\=#558B2F><b>$1</b></color>)=<b>提示> </b>在提取点装满贵重物品  \n当前关卡总价值： <b>$1</b> (<color\=#558B2F><b>$1</b></color>)
+<size\=16><color\=#FF0000>[OFF]</color> SAKUYAS HAIRDO 十六夜头饰</size>=<size\=16><color\=#FF0000>[关闭]</color> 十六夜头饰</size>
+<size\=16><color\=#FF0000>[OFF]</color> SMALL FLAG小旗子</size>=<size\=16><color\=#FF0000>[关闭]</color> 小旗子</size>
+<size\=16><color\=#00FF00>[ON]</color> SMALL FLAG小旗子</size>=<size\=16><color\=#00FF00>[开]</color> 小旗子</size>
+<size\=16><color\=#FF0000>[OFF]</color> ANTENNASTAR</size>=<size\=16><color\=#FF0000>[关闭]</color> 天线星</size>
+<size\=16><color\=#FF0000>[OFF]</color> ANTENNA</size>=<size\=16><color\=#FF0000>[关闭]</color> 天线</size>
+<size\=16><color\=#00FF00>[ON]</color> ANTENNA</size>=<size\=16><color\=#00FF00>[开]</color> 天线</size>
+<size\=16><color\=#FF0000>[OFF]</color> AVIATORS</size>=<size\=16><color\=#FF0000>[关闭]</color> 飞行员</size>
+<size\=16><color\=#00FF00>[ON]</color> AVIATORS</size>=<size\=16><color\=#00FF00>[开]</color> 飞行员</size>
+<size\=16><color\=#FF0000>[OFF]</color> CATPACK</size>=<size\=16><color\=#FF0000>[关闭]</color> 猫背包</size>
+<size\=16><color\=#00FF00>[ON]</color> CATPACK</size>=<size\=16><color\=#00FF00>[开]</color> 猫背包</size>
+<size\=16><color\=#FF0000>[OFF]</color> LOLLIPOP</size>=<size\=16><color\=#FF0000>[关闭]</color> 棒棒糖</size>
+<size\=16><color\=#00FF00>[ON]</color> LOLLIPOP</size>=<size\=16><color\=#00FF00>[开]</color> 棒棒糖</size>
+<size\=16><color\=#FF0000>[OFF]</color> PROPELLER HAT</size>=<size\=16><color\=#FF0000>[关闭]</color> 螺旋桨帽</size>
+<size\=16><color\=#00FF00>[ON]</color> PROPELLER HAT</size>=<size\=16><color\=#00FF00>[开]</color> 螺旋桨帽</size>
+<size\=16><color\=#FF0000>[OFF]</color> TONGUE</size>=<size\=16><color\=#FF0000>[关闭]</color> 舌头</size>
+<size\=16><color\=#00FF00>[ON]</color> TONGUE</size>=<size\=16><color\=#00FF00>[开]</color> 舌头</size>
+<size\=16><color\=#FF0000>[OFF]</color> WHISKERS</size>=<size\=16><color\=#FF0000>[关闭]</color> 胡须</size>
+<size\=16><color\=#00FF00>[ON]</color> WHISKERS</size>=<size\=16><color\=#00FF00>[开]</color> 胡须</size>
+
+

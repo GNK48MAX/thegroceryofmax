@@ -1,0 +1,206 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - REPO (2025/3/9 9:39:49)
+[Info   :   BepInEx] Running under Unity v2022.3.21.12519882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [AsyncLoggers 2.1.4.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [SimplifiedChinesePatch 1.0.0.0]
+[Info   :   BepInEx] 3 patcher plugins loaded
+[Info   :AsyncLoggers] AsyncLoggers:2.1.3 Prepatcher Started
+[Warning:AsyncLoggers] AsyncLoggers:2.1.3 Timestamps start at 星期六, 15 三月 2025 11:01:19.3240571 UTC
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Error  :AsyncLoggers] Failed to load SQLite native DLL from path: E:\0.mod2-qt\MOD\REPO\profiles\【R.E.P.O.】汉化+多人+体力+大厅+关卡等级+地图物资显示+血包共享\BepInEx\patchers\mattymatty-AsyncLoggers\sqlite_native\sqlite3.dll. Error code: 126
+[Error  :AsyncLoggers] No Sqlite dll found disabling Database!
+[Info   :AsyncLoggers] AsyncLoggers:2.1.3 Prepatcher Finished
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[11:01:21.9260661] [Message:   BepInEx] Chainloader started
+[11:01:21.9750643] [Info   :   BepInEx] 31 plugins to load
+[11:01:21.9780558] [Warning:   BepInEx] Plugin [No Spread Plugin 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[11:01:21.9800561] [Info   :   BepInEx] Loading [REPO_HD 1.0.0]
+[11:01:21.9850561] [Info   :   REPO_HD] Applying Harmony patches
+[11:01:21.9960568] [Info   :   REPO_HD] Patched GraphicsManager.UpdateRenderSize
+[11:01:21.9960568] [Info   :   REPO_HD] Patched RenderTextureMain.Start
+[11:01:21.9960568] [Info   :   REPO_HD] 2 patches applied
+[11:01:21.9960568] [Info   :   BepInEx] Loading [REPO_ServerList 1.0]
+[11:01:22.0100557] [Info   :REPO_ServerList] Loaded!
+[11:01:22.0100557] [Info   :   BepInEx] Loading [REPOLib 1.4.1]
+[11:01:22.0130554] [Info   :   REPOLib] REPOLib has awoken!
+[11:01:22.0270562] [Info   :   BepInEx] Loading [ExtractionPointConfirmButton 1.0.1]
+[11:01:22.0310554] [Info   :com.github.zehsteam.ExtractionPointConfirmButton] ExtractionPointConfirmButton has awoken!
+[11:01:22.1060553] [Info   :com.github.zehsteam.ExtractionPointConfirmButton] Successfully loaded assets from AssetBundle!
+[11:01:22.1080568] [Info   :   BepInEx] Loading [XH_REPO_DamageShow&EnemyHealthBar_Mod 1.0.0]
+[11:01:22.1390572] [Info   :XH_REPO_DamageShow&EnemyHealthBar_Mod] 小海怪物血量MOD加载成功!Xiaohai DamageShow&EnemyHealthBar MOD loaded successfully!
+[11:01:22.1390572] [Info   :   BepInEx] Loading [SpawnEnemy 1.0.0]
+[11:01:22.1420569] [Info   :SpawnEnemy] SpawnEnemy插件加载成功！
+[11:01:22.1560569] [Info   :   BepInEx] Loading [No Spread Plugin 1.0.0]
+[11:01:22.1660569] [Info   :No Spread Plugin] No Spread Plugin Loaded!
+[11:01:22.1660569] [Info   :   BepInEx] Loading [R.E.P.O SharedHealthPacks 1.0.0]
+[11:01:22.1680558] [Info   :Cuajitox.REPO.SharedHealthPacks] SharedHealthPacks mod has been activated
+[11:01:22.1720566] [Info   :   BepInEx] Loading [DynamicLighting 1.0.0]
+[11:01:22.1810565] [Info   :DynamicLighting] DirtyGames.DynamicLighting v1.0.0 has loaded!
+[11:01:22.1810565] [Info   :   BepInEx] Loading [REPO Ultimate Revive 1.0.0]
+[11:01:22.1850567] [Info   :Godji.UltimateRevive] [Godji] Ultiumate Revive Inited.
+[11:01:22.2130640] [Info   :   BepInEx] Loading [XUnity Auto Translator 5.4.4]
+[11:01:22.2260639] [Warning: Unity Log] OnLevelWasLoaded was found on AutoTranslationPlugin
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+[11:01:22.2530557] [Debug  :XUnity.AutoTranslator] Screen resolution determine to be: 304x201
+[11:01:22.2530557] [Info   :XUnity.AutoTranslator] Version of TextMesh Pro: 1.4.0.
+[11:01:22.3150586] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.UI.Text.set_text through Harmony hooks.
+[11:01:22.3160567] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.UI.Text.OnEnable through Harmony hooks.
+[11:01:22.3210573] [Debug  :XUnity.AutoTranslator] Hooked TMPro.TextMeshProUGUI.OnEnable through Harmony hooks.
+[11:01:22.3230560] [Debug  :XUnity.AutoTranslator] Hooked TMPro.TextMeshPro.OnEnable through Harmony hooks.
+[11:01:22.3300554] [Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.set_text through Harmony hooks.
+[11:01:22.3310560] [Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[11:01:22.3330574] [Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[11:01:22.3350559] [Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[11:01:22.3360574] [Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetCharArray through Harmony hooks.
+[11:01:22.3380563] [Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetCharArray through Harmony hooks.
+[11:01:22.3400561] [Warning:  HarmonyX] AccessTools.Method: Could not find method for type TMPro.TMP_Text and name SetCharArray and parameters (int[], int, int)
+[11:01:22.3400561] [Warning:XUnity.AutoTranslator] Could not hook 'TMP_Text_SetCharArray_Hook3'. Likely due differences between different versions of the engine or text framework.
+[11:01:22.3470560] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GUI.BeginGroup through Harmony hooks.
+[11:01:22.3520562] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GUI.DoLabel through Harmony hooks.
+[11:01:22.3540558] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GUI.DoButton through Harmony hooks.
+[11:01:22.3660571] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GUI.DoButtonGrid through Harmony hooks.
+[11:01:22.3680557] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GUI.DoToggle through Harmony hooks.
+[11:01:22.3720555] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GUI.Box through Harmony hooks.
+[11:01:22.3750556] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GUI.DoRepeatButton through Harmony hooks.
+[11:01:22.3770567] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GUI.DoModalWindow through Harmony hooks.
+[11:01:22.3790559] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GUI.DoWindow through Harmony hooks.
+[11:01:22.3860578] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.TextMesh.set_text through Harmony hooks.
+[11:01:22.3900670] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GameObject.SetActive through Harmony hooks.
+[11:01:22.3940553] [Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GameObject.set_active through Harmony hooks.
+[11:01:22.5380618] [Debug  :XUnity.AutoTranslator] Disabling certificate checks for endpoints because of configuration.
+[11:01:22.5480580] [Debug  :XUnity.AutoTranslator] Probing whether OnLevelWasLoaded or SceneManager is supported in this version of Unity. Any warnings related to OnLevelWasLoaded coming from Unity can safely be ignored.
+[11:01:22.5480580] [Debug  :XUnity.AutoTranslator] SceneManager is supported in this version of Unity.
+[11:01:22.5530555] [Info   :XUnity.AutoTranslator] Attempting to load TextMesh Pro font from asset bundle.
+[11:01:24.3350560] [Info   :XUnity.AutoTranslator] Loaded TextMesh Pro font uses version: 1.1.0
+[11:01:24.3350560] [Warning:XUnity.AutoTranslator] TextMesh Pro version mismatch. Font asset version: 1.1.0, TextMesh Pro version: 1.4.0
+[11:01:24.3750561] [Info   :XUnity.AutoTranslator] Loaded fallback font for TextMesh Pro: arialuni_sdf_u2018
+[11:01:24.3790568] [Debug  :XUnity.AutoTranslator] Loaded resize command text files.
+[11:01:24.3830564] [Debug  :XUnity.AutoTranslator] --- Loading Global Translations ---
+[11:01:24.3940565] [Debug  :XUnity.AutoTranslator] Loaded translation text files (took 0.01 seconds)
+[11:01:24.4010572] [Debug  :XUnity.AutoTranslator] Created variation translations (took 0 seconds)
+[11:01:24.4170562] [Debug  :XUnity.AutoTranslator] Created token translations (took 0 seconds)
+[11:01:24.4180561] [Info   :XUnity.AutoTranslator] Loaded XUnity.AutoTranslator into Unity [2022.3.21f1] game.
+[11:01:24.4250633] [Info   :   BepInEx] Loading [XUnity Resource Redirector 2.1.0]
+[11:01:24.4300557] [Info   :   BepInEx] Loading [Improved Stamina 1.2.0]
+[11:01:24.4320555] [Info   :Improved Stamina] Plugin ImprovedStamina is loaded!
+[11:01:24.4460556] [Info   :   BepInEx] Loading [Level Number HUD 1.0.0]
+[11:01:24.4480554] [Info   :ironbean.LevelNumberHUD] Level Number HUD
+[11:01:24.4540658] [Info   :   BepInEx] Loading [REPO Scanner 1.0.0]
+[11:01:24.4730566] [Info   :REPO Scanner] Plugin Kistras-Scanner is loaded!
+[11:01:24.4730566] [Info   :   BepInEx] Loading [Better Energy Crystals 1.0.0]
+[11:01:24.4780554] [Info   :Better Energy Crystals] John 11:11!
+[11:01:24.4780554] [Info   :Better Energy Crystals] WAKEY WAKEY!
+[11:01:24.4830568] [Info   :   BepInEx] Loading [Better Truck Heals 1.0.0]
+[11:01:24.4850555] [Info   :Better Truck Heals] John 11:11!
+[11:01:24.4850555] [Info   :Better Truck Heals] WAKEY WAKEY!
+[11:01:24.4850555] [Info   :Better Truck Heals] BetterTruckHeals has risen!
+[11:01:24.4870571] [Info   :Better Truck Heals] Better Truck Heals v1.0.0 is loading with heal amount: 50
+[11:01:24.4900558] [Info   :Better Truck Heals] Harmony patches applied successfully!
+[11:01:24.4900558] [Info   :   BepInEx] Loading [Open Invite 1.0]
+[11:01:24.4960559] [Info   :Open Invite] Linkoid.Repo.OpenInvite v1.0 has loaded!
+[11:01:24.4960559] [Info   :   BepInEx] Loading [Stable Flashlight 1.0]
+[11:01:24.4990556] [Info   :Stable Flashlight] Linkoid.Repo.StableFlashlight v1.0 has loaded!
+[11:01:24.5050565] [Info   :   BepInEx] Loading [MapValueTracker 1.1.5]
+[11:01:24.5090565] [Info   :MapValueTracker] Plugin MapValueTracker is loaded!
+[11:01:24.5360571] [Info   :   BepInEx] Loading [loaforcsSoundAPI 2.0.5]
+[11:01:24.5390569] [Info   :me.loaforc.soundapi] Setting up config
+[11:01:24.5390569] [Debug  :me.loaforc.soundapi] no DebugLogSource for AudioSourceAdditionalData.
+[11:01:24.5390569] [Debug  :me.loaforc.soundapi] no DebugLogSource for SoundReplacementLoader.
+[11:01:24.5390569] [Debug  :me.loaforc.soundapi] no DebugLogSource for SoundReplacementHandler.
+[11:01:24.5390569] [Debug  :me.loaforc.soundapi] no DebugLogSource for MatchStrings.
+[11:01:24.5390569] [Debug  :me.loaforc.soundapi] no DebugLogSource for ConditionsInfo.
+[11:01:24.5390569] [Debug  :me.loaforc.soundapi] no DebugLogSource for UpdateEveryFrame.
+[11:01:24.5390569] [Info   :me.loaforc.soundapi] Running patches
+[11:01:24.5630626] [Info   :me.loaforc.soundapi] Registering data
+[11:01:24.5650557] [Info   :me.loaforc.soundapi] Starting AudioManager.
+[11:01:24.5670680] [Info   :me.loaforc.soundapi] me.loaforc.soundapi by loaforc has loaded :3
+[11:01:24.5670680] [Info   :   BepInEx] Loading [More Shop Items 1.2.2]
+[11:01:24.6410569] [Info   :More Shop Items] 
+ __ __  ___  ____  ___   ___  _   _  ___  ____   _____  _____  ___  __ __  ___ 
+|  V  || _ || __ || __| | __|| |_| || _ || __ | |_   _||_   _|| __||  V  || __|
+| |V| || | ||   < | __| |__ ||  _  || | ||  __|  _| |_   | |  | __|| |V| ||__ |
+|_| |_||___||_||_||___| |___||_| |_||___||_|    |_____|  |_|  |___||_| |_||___| v1.2.2
+
+[11:01:24.6410569] [Info   :   BepInEx] Loading [Menu Lib 1.0.3]
+[11:01:24.6440571] [Debug  :  Menu Lib] Hooking `MenuManager.Start`
+[11:01:24.6510570] [Debug  :  Menu Lib] Hooking `MenuPageMain.Start`
+[11:01:24.6530569] [Debug  :  Menu Lib] Hooking `MenuPageEsc.Start`
+[11:01:24.6540567] [Debug  :  Menu Lib] Hooking `SemiFunc.UIMouseHover`
+[11:01:24.6650569] [Info   :   BepInEx] Loading [REPO Config 1.1.5]
+[11:01:24.6700594] [Debug  :REPO Config] Hooking `MenuPageMain.Start`
+[11:01:24.6740589] [Info   :   BepInEx] Loading [Keep My Flashlight 1.0.1]
+[11:01:24.6770588] [Debug  :Keep My Flashlight] Hooking `FlashlightController.LightOff`
+[11:01:24.6790587] [Debug  :Keep My Flashlight] Hooking `FlashlightLightAim.Update`
+[11:01:24.6820584] [Info   :   BepInEx] Loading [ShrinkerCart 0.1.0]
+[11:01:24.6840564] [Info   :Oksamies.ShrinkerCart] Oksamies.ShrinkerCart is now awake!
+[11:01:24.6940555] [Info   :   BepInEx] Loading [Late Join 0.1.2]
+[11:01:24.6970550] [Debug  : Late Join] Hooking `RunManager.ChangeLevel`
+[11:01:24.7020562] [Debug  : Late Join] Hooking `PlayerAvatar.Spawn`
+[11:01:24.7040567] [Debug  : Late Join] Hooking `LevelGenerator.Start`
+[11:01:24.7050564] [Debug  : Late Join] Hooking `PlayerAvatar.Start`
+[11:01:24.7090565] [Info   :   BepInEx] Loading [R.E.P.O. Sync Host Upgrades 1.0.0]
+[11:01:24.7190555] [Info   :R.E.P.O. Sync Host Upgrades] SyncHostUpgrades loaded!
+[11:01:24.7190555] [Info   :   BepInEx] Loading [NoDamageInShop 1.0.0]
+[11:01:24.7290583] [Info   :NoDamageInShop] Snowlance.NoDamageInShop v1.0.0 has loaded!
+[11:01:24.7290583] [Info   :   BepInEx] Loading [More Revive HP 1.0.1]
+[11:01:24.7320577] [Info   :More Revive HP] Tidaleus.MoreReviveHP has loaded
+[11:01:24.7410568] [Info   :   BepInEx] Loading [MorePlayers 1.0.1]
+[11:01:24.7440573] [Info   :zelofi.MorePlayers] zelofi.MorePlayers is now awake!
+[11:01:24.7490587] [Info   :me.loaforc.soundapi] Starting Sound-pack loading pipeline
+[11:01:24.8190563] [Debug  :me.loaforc.soundapi] handling config
+[11:01:24.8200668] [Info   :me.loaforc.soundapi] (Step 1) Loading Sound-pack definitions took 67ms
+[11:01:24.8210566] [Info   :me.loaforc.soundapi] (Step 2) Loading Sound-pack mappings ('0') took 0ms
+[11:01:24.8520564] [Info   :me.loaforc.soundapi] (Step 3) Skipped 0 collection(s), 0 replacement(s), 0 sound(s)
+[11:01:24.8520564] [Info   :me.loaforc.soundapi] (Step 3) Loading sound replacement collections took 31ms
+[11:01:24.8520564] [Info   :me.loaforc.soundapi] (Step 4) Started loading 11 audio file(s)
+[11:01:24.8520564] [Info   :me.loaforc.soundapi] Waiting for splash screens to complete to continue...
+[11:01:24.8540567] [Message:   BepInEx] Chainloader startup complete
+[11:01:29.6711798] [Debug  :me.loaforc.soundapi] manager disabled
+[11:01:29.6711798] [Debug  :me.loaforc.soundapi] manager destroyed
+[11:01:29.7471786] [Info   : Unity Log] Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+[11:01:29.7471786] [Info   : Unity Log] Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+[11:01:29.8421883] [Info   : Unity Log] [UltimateRevive] Added keyboard event listener
+[11:01:29.8871786] [Info   :REPO Scanner] Setting up scan input action...
+[11:01:29.8881866] [Info   :REPO Scanner] Added scan input action
+[11:01:29.8941781] [Info   :   REPOLib] Initializing NetworkPrefabs.
+[11:01:29.8941781] [Info   :   REPOLib] Replaced PhotonNetwork.PrefabPool with CustomPrefabPool.
+[11:01:29.8941781] [Info   :   REPOLib] Finished initializing NetworkPrefabs.
+[11:01:29.8961783] [Info   :   REPOLib] Adding valuables to valuable presets.
+[11:01:31.2861781] [Info   :   REPOLib] Initializing spawn valuable command
+[11:01:32.2451779] [Info   :   REPOLib] Finished initializing custom commands.
+[11:01:32.3181779] [Info   : Unity Log] VERSION: v0.1.2
+[11:01:32.4491789] [Info   : Unity Log] STEAM ID: 76561198435214801
+[11:01:32.5721872] [Info   :REPO_ServerList] Canvas founded!
+[11:01:32.5721872] [Info   :REPO_ServerList] Loaded!
+[11:01:32.5731781] [Info   :me.loaforc.soundapi] Starting AudioManager.
+[11:01:32.5731781] [Debug  :me.loaforc.soundapi] cleaning up old audio source entries
+[11:01:32.6201777] [Info   :   REPOLib] Adding items.
+[11:01:32.6481779] [Info   :   REPO_HD] Enabled TAA on Camera Main (UnityEngine.Camera)
+[11:01:32.6481779] [Info   :   REPO_HD] Enabled SMAA on Camera Top (UnityEngine.Camera)
+[11:01:32.6581866] [Info   : Unity Log] Getting Steam Auth Ticket...
+[11:01:32.7561777] [Info   :me.loaforc.soundapi] Splash screens done! Continuing pipeline
+[11:01:32.7561777] [Warning:me.loaforc.soundapi] The game will freeze for a moment!
+[11:01:32.7601776] [Info   :me.loaforc.soundapi] (Step 5) Queued half of the needed operations!
+[11:01:32.7601776] [Info   :me.loaforc.soundapi] (Step 5) All file reads are done, waiting for the audio clips conversions.
+[11:01:32.7681784] [Info   :me.loaforc.soundapi] (Step 6) Took 12ms to finish loading audio clips from files
+[11:01:32.7681784] [Debug  :me.loaforc.soundapi] Active Threads that are left over: 0
+[11:01:32.7681784] [Info   :me.loaforc.soundapi] Entire load process took an effective 111ms
+[11:01:32.9081800] [Info   :XUnity.AutoTranslator] Skipping plugin scan because no plugin-specific translations has been registered.
+[11:01:33.3051776] [Debug  :MapValueTracker] Generating Started. Resetting to zero.
+[11:01:33.3051776] [Debug  :MapValueTracker] In ResetValues()
+[11:01:33.3051776] [Info   :MapValueTracker] Total Map Value: 0
+[11:01:33.3051776] [Debug  :MapValueTracker] Room generation started. Now val is 0
+[11:01:33.3801775] [Info   : Unity Log] [DynamicLighting] Processing lighting settings for: Main Menu
+[11:01:33.3941781] [Info   : Unity Log] [DynamicLighting] Config initialized for level: Main Menu
+[11:01:33.3941781] [Info   : Unity Log] [DynamicLighting] Applying configured settings...
+[11:01:33.3961789] [Info   : Unity Log] [DynamicLighting] Updated camera background to match fog color.
+[11:01:33.3961789] [Info   : Unity Log] [DynamicLighting] Custom lighting and fog settings applied!
+[11:01:33.6141786] [Debug  :MapValueTracker] Generating Started. Resetting to zero.
+[11:01:33.6301787] [Debug  :MapValueTracker] After CheckForItems Total Val: 0
+[11:01:33.6301787] [Debug  :MapValueTracker] Generation done. Now val is 0

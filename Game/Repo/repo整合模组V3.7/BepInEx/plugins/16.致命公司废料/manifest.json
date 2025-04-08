@@ -1,0 +1,10 @@
+{
+    "name": "Lethal_Plushies",
+    "version_number": "1.0.3",
+    "website_url": "",
+    "description": "Adds lethal company plushies as valuables!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Zehs-REPOLib-1.1.0"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "DynamicLighting",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.com/invite/MeamkHXjKt",
+  "description": "Dynamic Lighting generates and applies customizable lighting and fog settings for each level. Automatically creates configuration entries for maps & custom ones, allowing you to fine tune ambient lighting, fog density, colors, and more.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

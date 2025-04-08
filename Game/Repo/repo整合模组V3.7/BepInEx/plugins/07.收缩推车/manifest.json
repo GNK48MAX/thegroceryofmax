@@ -1,0 +1,9 @@
+{
+    "name": "ShrinkerCart",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/oksamies/ShrinkerCart",
+    "description": "Bigger the item better the shrink!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
